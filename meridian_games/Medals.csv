@@ -1,0 +1,1008 @@
+MedalID,Discipline,Event,Category,Medal,Country,AthleteID
+MED9000,Athletics,Athletics Event 01,Men,Gold,Australia,ATH149646
+MED9001,Athletics,Athletics Event 01,Men,Silver,Great Britain,ATH160313
+MED9002,Athletics,Athletics Event 01,Men,Bronze,Netherlands,ATH175025
+MED9003,Athletics,Athletics Event 02,Women,Gold,United States,ATH179701
+MED9004,Athletics,Athletics Event 02,Women,Silver,Japan,ATH161943
+MED9005,Athletics,Athletics Event 02,Women,Bronze,South Korea,ATH152993
+MED9006,Athletics,Athletics Event 03,Men,Gold,United States,ATH175044
+MED9007,Athletics,Athletics Event 03,Men,Silver,Switzerland,ATH202199
+MED9008,Athletics,Athletics Event 03,Men,Bronze,Germany,ATH184442
+MED9009,Athletics,Athletics Event 04,Women,Gold,Japan,ATH182225
+MED9010,Athletics,Athletics Event 04,Women,Silver,Australia,ATH203363
+MED9011,Athletics,Athletics Event 04,Women,Bronze,China,ATH146460
+MED9012,Athletics,Athletics Event 05,Men,Gold,Italy,ATH130909
+MED9013,Athletics,Athletics Event 05,Men,Silver,United States,ATH136529
+MED9014,Athletics,Athletics Event 05,Men,Bronze,Sweden,ATH183346
+MED9015,Athletics,Athletics Event 06,Women,Gold,Japan,ATH199187
+MED9016,Athletics,Athletics Event 06,Women,Silver,Germany,ATH140683
+MED9017,Athletics,Athletics Event 06,Women,Bronze,China,ATH196965
+MED9018,Athletics,Athletics Event 07,Men,Gold,United States,ATH175310
+MED9019,Athletics,Athletics Event 07,Men,Silver,China,ATH157809
+MED9020,Athletics,Athletics Event 07,Men,Bronze,Japan,ATH203591
+MED9021,Athletics,Athletics Event 08,Women,Gold,Canada,ATH209047
+MED9022,Athletics,Athletics Event 08,Women,Silver,China,ATH119670
+MED9023,Athletics,Athletics Event 08,Women,Bronze,South Korea,ATH201152
+MED9024,Athletics,Athletics Event 09,Men,Gold,China,ATH156282
+MED9025,Athletics,Athletics Event 09,Men,Silver,Germany,ATH116601
+MED9026,Athletics,Athletics Event 09,Men,Bronze,Cuba,ATH187708
+MED9027,Athletics,Athletics Event 10,Women,Gold,China,ATH186835
+MED9028,Athletics,Athletics Event 10,Women,Silver,Russia,ATH161198
+MED9029,Athletics,Athletics Event 10,Women,Bronze,United States,ATH135688
+MED9030,Athletics,Athletics Event 11,Men,Gold,Australia,ATH200543
+MED9031,Athletics,Athletics Event 11,Men,Silver,China,ATH123289
+MED9032,Athletics,Athletics Event 11,Men,Bronze,Italy,ATH171165
+MED9033,Athletics,Athletics Event 12,Women,Gold,Switzerland,ATH209592
+MED9034,Athletics,Athletics Event 12,Women,Silver,Great Britain,ATH145274
+MED9035,Athletics,Athletics Event 12,Women,Bronze,United States,ATH125707
+MED9036,Athletics,Athletics Event 13,Men,Gold,United States,ATH177754
+MED9037,Athletics,Athletics Event 13,Men,Silver,Canada,ATH103832
+MED9038,Athletics,Athletics Event 13,Men,Bronze,Netherlands,ATH186389
+MED9039,Athletics,Athletics Event 14,Women,Gold,Japan,ATH138650
+MED9040,Athletics,Athletics Event 14,Women,Silver,Ethiopia,ATH196927
+MED9041,Athletics,Athletics Event 14,Women,Bronze,Great Britain,ATH153727
+MED9042,Athletics,Athletics Event 15,Men,Gold,Ethiopia,ATH163428
+MED9043,Athletics,Athletics Event 15,Men,Silver,China,ATH124741
+MED9044,Athletics,Athletics Event 15,Men,Bronze,United States,ATH185447
+MED9045,Athletics,Athletics Event 16,Women,Gold,United States,ATH194479
+MED9046,Athletics,Athletics Event 16,Women,Silver,China,ATH182593
+MED9047,Athletics,Athletics Event 16,Women,Bronze,Great Britain,ATH144113
+MED9048,Athletics,Athletics Event 17,Men,Gold,Greece,ATH197046
+MED9049,Athletics,Athletics Event 17,Men,Silver,United States,ATH100084
+MED9050,Athletics,Athletics Event 17,Men,Bronze,China,ATH174200
+MED9051,Athletics,Athletics Event 18,Women,Gold,New Zealand,ATH198576
+MED9052,Athletics,Athletics Event 18,Women,Silver,France,ATH152498
+MED9053,Athletics,Athletics Event 18,Women,Bronze,United States,ATH207085
+MED9054,Athletics,Athletics Event 19,Men,Gold,China,ATH135007
+MED9055,Athletics,Athletics Event 19,Men,Silver,Russia,ATH138287
+MED9056,Athletics,Athletics Event 19,Men,Bronze,Japan,ATH173050
+MED9057,Athletics,Athletics Event 20,Women,Gold,Germany,ATH112732
+MED9058,Athletics,Athletics Event 20,Women,Silver,Denmark,ATH168195
+MED9059,Athletics,Athletics Event 20,Women,Bronze,Brazil,ATH161166
+MED9060,Athletics,Athletics Event 21,Men,Gold,Japan,ATH111984
+MED9061,Athletics,Athletics Event 21,Men,Silver,United States,ATH124749
+MED9062,Athletics,Athletics Event 21,Men,Bronze,Germany,ATH165962
+MED9063,Athletics,Athletics Event 22,Women,Gold,United States,ATH159000
+MED9064,Athletics,Athletics Event 22,Women,Silver,Great Britain,ATH150831
+MED9065,Athletics,Athletics Event 22,Women,Bronze,Japan,ATH136762
+MED9066,Athletics,Athletics Event 23,Men,Gold,Jamaica,ATH121547
+MED9067,Athletics,Athletics Event 23,Men,Silver,United States,ATH129607
+MED9068,Athletics,Athletics Event 23,Men,Bronze,Australia,ATH107557
+MED9069,Athletics,Athletics Event 24,Women,Gold,Ukraine,ATH137091
+MED9070,Athletics,Athletics Event 24,Women,Silver,Brazil,ATH176526
+MED9071,Athletics,Athletics Event 24,Women,Bronze,Japan,ATH193900
+MED9072,Athletics,Athletics Event 25,Men,Gold,Kenya,ATH133959
+MED9073,Athletics,Athletics Event 25,Men,Silver,France,ATH196246
+MED9074,Athletics,Athletics Event 25,Men,Bronze,China,ATH128682
+MED9075,Athletics,Athletics Event 26,Women,Gold,Norway,ATH177137
+MED9076,Athletics,Athletics Event 26,Women,Silver,China,ATH119564
+MED9077,Athletics,Athletics Event 26,Women,Bronze,South Korea,ATH129980
+MED9078,Athletics,Athletics Event 27,Men,Gold,France,ATH105309
+MED9079,Athletics,Athletics Event 27,Men,Silver,Great Britain,ATH186517
+MED9080,Athletics,Athletics Event 27,Men,Bronze,Russia,ATH135314
+MED9081,Athletics,Athletics Event 28,Women,Gold,Brazil,ATH192946
+MED9082,Athletics,Athletics Event 28,Women,Silver,Great Britain,ATH180262
+MED9083,Athletics,Athletics Event 28,Women,Bronze,China,ATH181325
+MED9084,Athletics,Athletics Event 29,Men,Gold,Great Britain,ATH102844
+MED9085,Athletics,Athletics Event 29,Men,Silver,Japan,ATH102441
+MED9086,Athletics,Athletics Event 29,Men,Bronze,Australia,ATH193153
+MED9087,Athletics,Athletics Event 30,Women,Gold,United States,ATH174859
+MED9088,Athletics,Athletics Event 30,Women,Silver,Uganda,ATH153813
+MED9089,Athletics,Athletics Event 30,Women,Bronze,Russia,ATH147247
+MED9090,Athletics,Athletics Event 31,Men,Gold,United States,ATH168036
+MED9091,Athletics,Athletics Event 31,Men,Silver,South Korea,ATH169646
+MED9092,Athletics,Athletics Event 31,Men,Bronze,Spain,ATH112094
+MED9093,Athletics,Athletics Event 32,Women,Gold,Japan,ATH140547
+MED9094,Athletics,Athletics Event 32,Women,Silver,United States,ATH159000
+MED9095,Athletics,Athletics Event 32,Women,Bronze,Brazil,ATH116051
+MED9096,Athletics,Athletics Event 33,Men,Gold,Cuba,ATH180632
+MED9097,Athletics,Athletics Event 33,Men,Silver,Iran,ATH138031
+MED9098,Athletics,Athletics Event 33,Men,Bronze,China,ATH152699
+MED9099,Athletics,Athletics Event 34,Women,Gold,Great Britain,ATH107925
+MED9100,Athletics,Athletics Event 34,Women,Silver,New Zealand,ATH138213
+MED9101,Athletics,Athletics Event 34,Women,Bronze,Russia,ATH141482
+MED9102,Athletics,Athletics Event 35,Men,Gold,Italy,ATH123437
+MED9103,Athletics,Athletics Event 35,Men,Silver,Germany,ATH113968
+MED9104,Athletics,Athletics Event 35,Men,Bronze,Great Britain,ATH171103
+MED9105,Athletics,Athletics Event 36,Women,Gold,France,ATH134543
+MED9106,Athletics,Athletics Event 36,Women,Silver,China,ATH113692
+MED9107,Athletics,Athletics Event 36,Women,Bronze,United States,ATH114507
+MED9108,Athletics,Athletics Event 37,Men,Gold,Serbia,ATH118898
+MED9109,Athletics,Athletics Event 37,Men,Silver,Switzerland,ATH205542
+MED9110,Athletics,Athletics Event 37,Men,Bronze,China,ATH140955
+MED9111,Athletics,Athletics Event 38,Women,Gold,Canada,ATH114894
+MED9112,Athletics,Athletics Event 38,Women,Silver,China,ATH198390
+MED9113,Athletics,Athletics Event 38,Women,Bronze,Great Britain,ATH167459
+MED9114,Athletics,Athletics Event 39,Men,Gold,China,ATH204308
+MED9115,Athletics,Athletics Event 39,Men,Silver,Australia,ATH162634
+MED9116,Athletics,Athletics Event 39,Men,Bronze,Germany,ATH152226
+MED9117,Athletics,Athletics Event 40,Women,Gold,China,ATH164741
+MED9118,Athletics,Athletics Event 40,Women,Silver,United States,ATH110278
+MED9119,Athletics,Athletics Event 40,Women,Bronze,Japan,ATH123552
+MED9120,Athletics,Athletics Event 41,Men,Gold,United States,ATH155017
+MED9121,Athletics,Athletics Event 41,Men,Silver,Sweden,ATH209506
+MED9122,Athletics,Athletics Event 41,Men,Bronze,China,ATH116165
+MED9123,Athletics,Athletics Event 42,Women,Gold,Russia,ATH189190
+MED9124,Athletics,Athletics Event 42,Women,Silver,United States,ATH141875
+MED9125,Athletics,Athletics Event 42,Women,Bronze,Australia,ATH167640
+MED9126,Athletics,Athletics Event 43,Men,Gold,Czechia,ATH105905
+MED9127,Athletics,Athletics Event 43,Men,Silver,Argentina,ATH201267
+MED9128,Athletics,Athletics Event 43,Men,Bronze,United States,ATH199131
+MED9129,Athletics,Athletics Event 44,Women,Gold,Great Britain,ATH106860
+MED9130,Athletics,Athletics Event 44,Women,Silver,Serbia,ATH144048
+MED9131,Athletics,Athletics Event 44,Women,Bronze,China,ATH158017
+MED9132,Athletics,Athletics Event 45,Men,Gold,United States,ATH177705
+MED9133,Athletics,Athletics Event 45,Men,Silver,Great Britain,ATH101511
+MED9134,Athletics,Athletics Event 45,Men,Bronze,China,ATH116702
+MED9135,Athletics,Athletics Event 46,Women,Gold,Great Britain,ATH145723
+MED9136,Athletics,Athletics Event 46,Women,Silver,Australia,ATH100746
+MED9137,Athletics,Athletics Event 46,Women,Bronze,France,ATH152261
+MED9138,Athletics,Athletics Event 47,Men,Gold,China,ATH181312
+MED9139,Athletics,Athletics Event 47,Men,Silver,Japan,ATH198714
+MED9140,Athletics,Athletics Event 47,Men,Bronze,Serbia,ATH166643
+MED9141,Athletics,Athletics Event 48,Women,Gold,Japan,ATH162621
+MED9142,Athletics,Athletics Event 48,Women,Silver,United States,ATH143300
+MED9143,Athletics,Athletics Event 48,Women,Bronze,Italy,ATH174931
+MED9144,Swimming,Swimming Event 01,Men,Gold,Japan,ATH203396
+MED9145,Swimming,Swimming Event 01,Men,Silver,United States,ATH108394
+MED9146,Swimming,Swimming Event 01,Men,Bronze,Kenya,ATH103356
+MED9147,Swimming,Swimming Event 02,Women,Gold,China,ATH118280
+MED9148,Swimming,Swimming Event 02,Women,Silver,United States,ATH148214
+MED9149,Swimming,Swimming Event 02,Women,Bronze,Japan,ATH154697
+MED9150,Swimming,Swimming Event 03,Men,Gold,Great Britain,ATH137178
+MED9151,Swimming,Swimming Event 03,Men,Silver,Italy,ATH164365
+MED9152,Swimming,Swimming Event 03,Men,Bronze,Japan,ATH121708
+MED9153,Swimming,Swimming Event 04,Women,Gold,Germany,ATH162190
+MED9154,Swimming,Swimming Event 04,Women,Silver,Jamaica,ATH208158
+MED9155,Swimming,Swimming Event 04,Women,Bronze,Great Britain,ATH145019
+MED9156,Swimming,Swimming Event 05,Men,Gold,France,ATH106956
+MED9157,Swimming,Swimming Event 05,Men,Silver,China,ATH134925
+MED9158,Swimming,Swimming Event 05,Men,Bronze,Ethiopia,ATH164504
+MED9159,Swimming,Swimming Event 06,Women,Gold,China,ATH183415
+MED9160,Swimming,Swimming Event 06,Women,Silver,Italy,ATH126064
+MED9161,Swimming,Swimming Event 06,Women,Bronze,Norway,ATH194001
+MED9162,Swimming,Swimming Event 07,Men,Gold,Great Britain,ATH206561
+MED9163,Swimming,Swimming Event 07,Men,Silver,Nigeria,ATH147073
+MED9164,Swimming,Swimming Event 07,Men,Bronze,China,ATH172356
+MED9165,Swimming,Swimming Event 08,Women,Gold,China,ATH200215
+MED9166,Swimming,Swimming Event 08,Women,Silver,Germany,ATH112369
+MED9167,Swimming,Swimming Event 08,Women,Bronze,United States,ATH198474
+MED9168,Swimming,Swimming Event 09,Men,Gold,Switzerland,ATH107128
+MED9169,Swimming,Swimming Event 09,Men,Silver,Great Britain,ATH180156
+MED9170,Swimming,Swimming Event 09,Men,Bronze,China,ATH129011
+MED9171,Swimming,Swimming Event 10,Women,Gold,Japan,ATH185207
+MED9172,Swimming,Swimming Event 10,Women,Silver,Norway,ATH131748
+MED9173,Swimming,Swimming Event 10,Women,Bronze,China,ATH193821
+MED9174,Swimming,Swimming Event 11,Men,Gold,Japan,ATH185642
+MED9175,Swimming,Swimming Event 11,Men,Silver,Brazil,ATH174114
+MED9176,Swimming,Swimming Event 11,Men,Bronze,China,ATH130732
+MED9177,Swimming,Swimming Event 12,Women,Gold,Japan,ATH116535
+MED9178,Swimming,Swimming Event 12,Women,Silver,China,ATH122884
+MED9179,Swimming,Swimming Event 12,Women,Bronze,Great Britain,ATH185483
+MED9180,Swimming,Swimming Event 13,Men,Gold,Turkey,ATH169408
+MED9181,Swimming,Swimming Event 13,Men,Silver,China,ATH113593
+MED9182,Swimming,Swimming Event 13,Men,Bronze,Hungary,ATH187495
+MED9183,Swimming,Swimming Event 14,Women,Gold,Japan,ATH170434
+MED9184,Swimming,Swimming Event 14,Women,Silver,Russia,ATH192323
+MED9185,Swimming,Swimming Event 14,Women,Bronze,China,ATH203326
+MED9186,Swimming,Swimming Event 15,Men,Gold,Iran,ATH195744
+MED9187,Swimming,Swimming Event 15,Men,Silver,Jamaica,ATH198584
+MED9188,Swimming,Swimming Event 15,Men,Bronze,France,ATH167244
+MED9189,Swimming,Swimming Event 16,Women,Gold,United States,ATH193122
+MED9190,Swimming,Swimming Event 16,Women,Silver,China,ATH183170
+MED9191,Swimming,Swimming Event 16,Women,Bronze,Japan,ATH108828
+MED9192,Swimming,Swimming Event 17,Men,Gold,China,ATH138869
+MED9193,Swimming,Swimming Event 17,Men,Silver,United States,ATH116787
+MED9194,Swimming,Swimming Event 17,Men,Bronze,Spain,ATH199484
+MED9195,Swimming,Swimming Event 18,Women,Gold,China,ATH131147
+MED9196,Swimming,Swimming Event 18,Women,Silver,Japan,ATH125906
+MED9197,Swimming,Swimming Event 18,Women,Bronze,Australia,ATH130649
+MED9198,Swimming,Swimming Event 19,Men,Gold,China,ATH163624
+MED9199,Swimming,Swimming Event 19,Men,Silver,Germany,ATH137329
+MED9200,Swimming,Swimming Event 19,Men,Bronze,United States,ATH155510
+MED9201,Swimming,Swimming Event 20,Women,Gold,Germany,ATH108785
+MED9202,Swimming,Swimming Event 20,Women,Silver,Great Britain,ATH206858
+MED9203,Swimming,Swimming Event 20,Women,Bronze,Netherlands,ATH102238
+MED9204,Swimming,Swimming Event 21,Men,Gold,Great Britain,ATH191650
+MED9205,Swimming,Swimming Event 21,Men,Silver,Russia,ATH172289
+MED9206,Swimming,Swimming Event 21,Men,Bronze,Australia,ATH167994
+MED9207,Swimming,Swimming Event 22,Women,Gold,Egypt,ATH192463
+MED9208,Swimming,Swimming Event 22,Women,Silver,China,ATH175670
+MED9209,Swimming,Swimming Event 22,Women,Bronze,Kenya,ATH197284
+MED9210,Swimming,Swimming Event 23,Men,Gold,United States,ATH199009
+MED9211,Swimming,Swimming Event 23,Men,Silver,Jamaica,ATH198122
+MED9212,Swimming,Swimming Event 23,Men,Bronze,New Zealand,ATH158116
+MED9213,Swimming,Swimming Event 24,Women,Gold,China,ATH142160
+MED9214,Swimming,Swimming Event 24,Women,Silver,Great Britain,ATH146484
+MED9215,Swimming,Swimming Event 24,Women,Bronze,United States,ATH209522
+MED9216,Swimming,Swimming Event 25,Men,Gold,Switzerland,ATH117098
+MED9217,Swimming,Swimming Event 25,Men,Silver,Australia,ATH118615
+MED9218,Swimming,Swimming Event 25,Men,Bronze,Poland,ATH171894
+MED9219,Swimming,Swimming Event 26,Women,Gold,Hungary,ATH104239
+MED9220,Swimming,Swimming Event 26,Women,Silver,United States,ATH115569
+MED9221,Swimming,Swimming Event 26,Women,Bronze,China,ATH146593
+MED9222,Swimming,Swimming Event 27,Men,Gold,France,ATH195366
+MED9223,Swimming,Swimming Event 27,Men,Silver,Brazil,ATH204614
+MED9224,Swimming,Swimming Event 27,Men,Bronze,Russia,ATH150198
+MED9225,Swimming,Swimming Event 28,Women,Gold,Netherlands,ATH193341
+MED9226,Swimming,Swimming Event 28,Women,Silver,Great Britain,ATH158918
+MED9227,Swimming,Swimming Event 28,Women,Bronze,Sweden,ATH135186
+MED9228,Swimming,Swimming Event 29,Men,Gold,China,ATH167506
+MED9229,Swimming,Swimming Event 29,Men,Silver,Great Britain,ATH195438
+MED9230,Swimming,Swimming Event 29,Men,Bronze,Argentina,ATH166403
+MED9231,Swimming,Swimming Event 30,Women,Gold,France,ATH147438
+MED9232,Swimming,Swimming Event 30,Women,Silver,Spain,ATH106584
+MED9233,Swimming,Swimming Event 30,Women,Bronze,United States,ATH155016
+MED9234,Swimming,Swimming Event 31,Men,Gold,United States,ATH184868
+MED9235,Swimming,Swimming Event 31,Men,Silver,Australia,ATH191076
+MED9236,Swimming,Swimming Event 31,Men,Bronze,China,ATH196467
+MED9237,Swimming,Swimming Event 32,Women,Gold,Sweden,ATH151193
+MED9238,Swimming,Swimming Event 32,Women,Silver,China,ATH207494
+MED9239,Swimming,Swimming Event 32,Women,Bronze,Canada,ATH187838
+MED9240,Swimming,Swimming Event 33,Men,Gold,United States,ATH160162
+MED9241,Swimming,Swimming Event 33,Men,Silver,Germany,ATH139073
+MED9242,Swimming,Swimming Event 33,Men,Bronze,New Zealand,ATH120317
+MED9243,Swimming,Swimming Event 34,Women,Gold,France,ATH135607
+MED9244,Swimming,Swimming Event 34,Women,Silver,United States,ATH144181
+MED9245,Swimming,Swimming Event 34,Women,Bronze,China,ATH107297
+MED9246,Swimming,Swimming Event 35,Men,Gold,China,ATH104676
+MED9247,Swimming,Swimming Event 35,Men,Silver,United States,ATH110508
+MED9248,Swimming,Swimming Event 35,Men,Bronze,Australia,ATH126036
+MED9249,Swimming,Swimming Event 36,Women,Gold,China,ATH196450
+MED9250,Swimming,Swimming Event 36,Women,Silver,United States,ATH143996
+MED9251,Swimming,Swimming Event 36,Women,Bronze,Brazil,ATH207623
+MED9252,Swimming,Swimming Event 37,Men,Gold,Hungary,ATH184027
+MED9253,Swimming,Swimming Event 37,Men,Silver,Brazil,ATH167671
+MED9254,Swimming,Swimming Event 37,Men,Bronze,Great Britain,ATH101230
+MED9255,Gymnastics,Gymnastics Event 01,Men,Gold,Germany,ATH204084
+MED9256,Gymnastics,Gymnastics Event 01,Men,Silver,Great Britain,ATH106325
+MED9257,Gymnastics,Gymnastics Event 01,Men,Bronze,Australia,ATH200616
+MED9258,Gymnastics,Gymnastics Event 02,Women,Gold,Serbia,ATH172179
+MED9259,Gymnastics,Gymnastics Event 02,Women,Silver,Japan,ATH165028
+MED9260,Gymnastics,Gymnastics Event 02,Women,Bronze,Sweden,ATH179035
+MED9261,Gymnastics,Gymnastics Event 03,Men,Gold,Great Britain,ATH205407
+MED9262,Gymnastics,Gymnastics Event 03,Men,Silver,Russia,ATH139509
+MED9263,Gymnastics,Gymnastics Event 03,Men,Bronze,Egypt,ATH146093
+MED9264,Gymnastics,Gymnastics Event 04,Women,Gold,Great Britain,ATH141378
+MED9265,Gymnastics,Gymnastics Event 04,Women,Silver,China,ATH206718
+MED9266,Gymnastics,Gymnastics Event 04,Women,Bronze,Mexico,ATH161838
+MED9267,Gymnastics,Gymnastics Event 05,Men,Gold,China,ATH116730
+MED9268,Gymnastics,Gymnastics Event 05,Men,Silver,Japan,ATH197852
+MED9269,Gymnastics,Gymnastics Event 05,Men,Bronze,Netherlands,ATH125430
+MED9270,Gymnastics,Gymnastics Event 06,Women,Gold,Slovenia,ATH127033
+MED9271,Gymnastics,Gymnastics Event 06,Women,Silver,Germany,ATH157684
+MED9272,Gymnastics,Gymnastics Event 06,Women,Bronze,United States,ATH155773
+MED9273,Gymnastics,Gymnastics Event 07,Men,Gold,Netherlands,ATH197530
+MED9274,Gymnastics,Gymnastics Event 07,Men,Silver,China,ATH124489
+MED9275,Gymnastics,Gymnastics Event 07,Men,Bronze,Germany,ATH129166
+MED9276,Gymnastics,Gymnastics Event 08,Women,Gold,Germany,ATH155796
+MED9277,Gymnastics,Gymnastics Event 08,Women,Silver,United States,ATH134386
+MED9278,Gymnastics,Gymnastics Event 08,Women,Bronze,Brazil,ATH165813
+MED9279,Gymnastics,Gymnastics Event 09,Men,Gold,China,ATH205924
+MED9280,Gymnastics,Gymnastics Event 09,Men,Silver,Russia,ATH113903
+MED9281,Gymnastics,Gymnastics Event 09,Men,Bronze,Japan,ATH102809
+MED9282,Gymnastics,Gymnastics Event 10,Women,Gold,United States,ATH198824
+MED9283,Gymnastics,Gymnastics Event 10,Women,Silver,Japan,ATH123474
+MED9284,Gymnastics,Gymnastics Event 10,Women,Bronze,South Korea,ATH132129
+MED9285,Gymnastics,Gymnastics Event 11,Men,Gold,Great Britain,ATH158288
+MED9286,Gymnastics,Gymnastics Event 11,Men,Silver,United States,ATH141509
+MED9287,Gymnastics,Gymnastics Event 11,Men,Bronze,Germany,ATH154377
+MED9288,Gymnastics,Gymnastics Event 12,Women,Gold,Netherlands,ATH104920
+MED9289,Gymnastics,Gymnastics Event 12,Women,Silver,Kazakhstan,ATH137283
+MED9290,Gymnastics,Gymnastics Event 12,Women,Bronze,Great Britain,ATH207218
+MED9291,Gymnastics,Gymnastics Event 13,Men,Gold,Kenya,ATH145509
+MED9292,Gymnastics,Gymnastics Event 13,Men,Silver,Germany,ATH133463
+MED9293,Gymnastics,Gymnastics Event 13,Men,Bronze,China,ATH188672
+MED9294,Gymnastics,Gymnastics Event 14,Women,Gold,Russia,ATH209535
+MED9295,Gymnastics,Gymnastics Event 14,Women,Silver,Italy,ATH102220
+MED9296,Gymnastics,Gymnastics Event 14,Women,Bronze,France,ATH167368
+MED9297,Gymnastics,Gymnastics Event 15,Men,Gold,United States,ATH121938
+MED9298,Gymnastics,Gymnastics Event 15,Men,Silver,Australia,ATH162931
+MED9299,Gymnastics,Gymnastics Event 15,Men,Bronze,Japan,ATH180581
+MED9300,Gymnastics,Gymnastics Event 16,Women,Gold,China,ATH198551
+MED9301,Gymnastics,Gymnastics Event 16,Women,Silver,United States,ATH190679
+MED9302,Gymnastics,Gymnastics Event 16,Women,Bronze,Great Britain,ATH209797
+MED9303,Gymnastics,Gymnastics Event 17,Men,Gold,Germany,ATH207235
+MED9304,Gymnastics,Gymnastics Event 17,Men,Silver,Brazil,ATH198731
+MED9305,Gymnastics,Gymnastics Event 17,Men,Bronze,United States,ATH130085
+MED9306,Gymnastics,Gymnastics Event 18,Women,Gold,France,ATH150992
+MED9307,Gymnastics,Gymnastics Event 18,Women,Silver,United States,ATH168051
+MED9308,Gymnastics,Gymnastics Event 18,Women,Bronze,Ukraine,ATH100060
+MED9309,Cycling,Cycling Event 01,Men,Gold,United States,ATH206270
+MED9310,Cycling,Cycling Event 01,Men,Silver,Netherlands,ATH115101
+MED9311,Cycling,Cycling Event 01,Men,Bronze,China,ATH157448
+MED9312,Cycling,Cycling Event 02,Women,Gold,United States,ATH160382
+MED9313,Cycling,Cycling Event 02,Women,Silver,Germany,ATH207730
+MED9314,Cycling,Cycling Event 02,Women,Bronze,China,ATH144682
+MED9315,Cycling,Cycling Event 03,Men,Gold,Great Britain,ATH121544
+MED9316,Cycling,Cycling Event 03,Men,Silver,Ethiopia,ATH174705
+MED9317,Cycling,Cycling Event 03,Men,Bronze,Germany,ATH165194
+MED9318,Cycling,Cycling Event 04,Women,Gold,United States,ATH138691
+MED9319,Cycling,Cycling Event 04,Women,Silver,Japan,ATH161280
+MED9320,Cycling,Cycling Event 04,Women,Bronze,Switzerland,ATH164949
+MED9321,Cycling,Cycling Event 05,Men,Gold,Netherlands,ATH162710
+MED9322,Cycling,Cycling Event 05,Men,Silver,Canada,ATH182520
+MED9323,Cycling,Cycling Event 05,Men,Bronze,United States,ATH148068
+MED9324,Cycling,Cycling Event 06,Women,Gold,Australia,ATH137012
+MED9325,Cycling,Cycling Event 06,Women,Silver,Germany,ATH122515
+MED9326,Cycling,Cycling Event 06,Women,Bronze,United States,ATH148058
+MED9327,Cycling,Cycling Event 07,Men,Gold,China,ATH105647
+MED9328,Cycling,Cycling Event 07,Men,Silver,Hungary,ATH114576
+MED9329,Cycling,Cycling Event 07,Men,Bronze,United States,ATH176292
+MED9330,Cycling,Cycling Event 08,Women,Gold,Italy,ATH121670
+MED9331,Cycling,Cycling Event 08,Women,Silver,Germany,ATH161354
+MED9332,Cycling,Cycling Event 08,Women,Bronze,United States,ATH187442
+MED9333,Cycling,Cycling Event 09,Men,Gold,Japan,ATH161713
+MED9334,Cycling,Cycling Event 09,Men,Silver,China,ATH196449
+MED9335,Cycling,Cycling Event 09,Men,Bronze,India,ATH127574
+MED9336,Cycling,Cycling Event 10,Women,Gold,France,ATH188204
+MED9337,Cycling,Cycling Event 10,Women,Silver,China,ATH173651
+MED9338,Cycling,Cycling Event 10,Women,Bronze,Norway,ATH183459
+MED9339,Cycling,Cycling Event 11,Men,Gold,France,ATH181092
+MED9340,Cycling,Cycling Event 11,Men,Silver,Czechia,ATH202028
+MED9341,Cycling,Cycling Event 11,Men,Bronze,Morocco,ATH191325
+MED9342,Cycling,Cycling Event 12,Women,Gold,Japan,ATH146576
+MED9343,Cycling,Cycling Event 12,Women,Silver,China,ATH142326
+MED9344,Cycling,Cycling Event 12,Women,Bronze,United States,ATH138351
+MED9345,Cycling,Cycling Event 13,Men,Gold,South Korea,ATH127353
+MED9346,Cycling,Cycling Event 13,Men,Silver,China,ATH190092
+MED9347,Cycling,Cycling Event 13,Men,Bronze,United States,ATH161197
+MED9348,Cycling,Cycling Event 14,Women,Gold,China,ATH197701
+MED9349,Cycling,Cycling Event 14,Women,Silver,Japan,ATH157823
+MED9350,Cycling,Cycling Event 14,Women,Bronze,Sweden,ATH125144
+MED9351,Cycling,Cycling Event 15,Men,Gold,China,ATH195943
+MED9352,Cycling,Cycling Event 15,Men,Silver,United States,ATH176292
+MED9353,Cycling,Cycling Event 15,Men,Bronze,Japan,ATH139783
+MED9354,Cycling,Cycling Event 16,Women,Gold,South Korea,ATH187441
+MED9355,Cycling,Cycling Event 16,Women,Silver,France,ATH175766
+MED9356,Cycling,Cycling Event 16,Women,Bronze,United States,ATH200186
+MED9357,Cycling,Cycling Event 17,Men,Gold,Germany,ATH155937
+MED9358,Cycling,Cycling Event 17,Men,Silver,China,ATH206526
+MED9359,Cycling,Cycling Event 17,Men,Bronze,Canada,ATH128599
+MED9360,Cycling,Cycling Event 18,Women,Gold,Russia,ATH114560
+MED9361,Cycling,Cycling Event 18,Women,Silver,Great Britain,ATH170032
+MED9362,Cycling,Cycling Event 18,Women,Bronze,Japan,ATH102952
+MED9363,Cycling,Cycling Event 19,Men,Gold,Ukraine,ATH152372
+MED9364,Cycling,Cycling Event 19,Men,Silver,China,ATH128454
+MED9365,Cycling,Cycling Event 19,Men,Bronze,United States,ATH199576
+MED9366,Cycling,Cycling Event 20,Women,Gold,China,ATH115267
+MED9367,Cycling,Cycling Event 20,Women,Silver,Australia,ATH184881
+MED9368,Cycling,Cycling Event 20,Women,Bronze,New Zealand,ATH186316
+MED9369,Rowing,Rowing Event 01,Men,Gold,United States,
+MED9370,Rowing,Rowing Event 01,Men,Silver,France,
+MED9371,Rowing,Rowing Event 01,Men,Bronze,Germany,
+MED9372,Rowing,Rowing Event 02,Women,Gold,United States,
+MED9373,Rowing,Rowing Event 02,Women,Silver,France,
+MED9374,Rowing,Rowing Event 02,Women,Bronze,China,
+MED9375,Rowing,Rowing Event 03,Men,Gold,Japan,
+MED9376,Rowing,Rowing Event 03,Men,Silver,Germany,
+MED9377,Rowing,Rowing Event 03,Men,Bronze,Russia,
+MED9378,Rowing,Rowing Event 04,Women,Gold,United States,
+MED9379,Rowing,Rowing Event 04,Women,Silver,Australia,
+MED9380,Rowing,Rowing Event 04,Women,Bronze,France,
+MED9381,Rowing,Rowing Event 05,Men,Gold,New Zealand,
+MED9382,Rowing,Rowing Event 05,Men,Silver,Germany,
+MED9383,Rowing,Rowing Event 05,Men,Bronze,Japan,
+MED9384,Rowing,Rowing Event 06,Women,Gold,Sweden,
+MED9385,Rowing,Rowing Event 06,Women,Silver,Japan,
+MED9386,Rowing,Rowing Event 06,Women,Bronze,France,
+MED9387,Rowing,Rowing Event 07,Men,Gold,Japan,
+MED9388,Rowing,Rowing Event 07,Men,Silver,Great Britain,
+MED9389,Rowing,Rowing Event 07,Men,Bronze,United States,
+MED9390,Rowing,Rowing Event 08,Women,Gold,China,
+MED9391,Rowing,Rowing Event 08,Women,Silver,Japan,
+MED9392,Rowing,Rowing Event 08,Women,Bronze,Switzerland,
+MED9393,Rowing,Rowing Event 09,Men,Gold,Germany,
+MED9394,Rowing,Rowing Event 09,Men,Silver,China,
+MED9395,Rowing,Rowing Event 09,Men,Bronze,Russia,
+MED9396,Rowing,Rowing Event 10,Women,Gold,United States,
+MED9397,Rowing,Rowing Event 10,Women,Silver,Japan,
+MED9398,Rowing,Rowing Event 10,Women,Bronze,Germany,
+MED9399,Rowing,Rowing Event 11,Men,Gold,China,
+MED9400,Rowing,Rowing Event 11,Men,Silver,France,
+MED9401,Rowing,Rowing Event 11,Men,Bronze,Australia,
+MED9402,Rowing,Rowing Event 12,Women,Gold,United States,
+MED9403,Rowing,Rowing Event 12,Women,Silver,China,
+MED9404,Rowing,Rowing Event 12,Women,Bronze,Germany,
+MED9405,Rowing,Rowing Event 13,Men,Gold,Great Britain,
+MED9406,Rowing,Rowing Event 13,Men,Silver,United States,
+MED9407,Rowing,Rowing Event 13,Men,Bronze,Australia,
+MED9408,Rowing,Rowing Event 14,Women,Gold,Great Britain,
+MED9409,Rowing,Rowing Event 14,Women,Silver,Russia,
+MED9410,Rowing,Rowing Event 14,Women,Bronze,Australia,
+MED9411,Football,Football Event 01,Men,Gold,United States,
+MED9412,Football,Football Event 01,Men,Silver,Germany,
+MED9413,Football,Football Event 01,Men,Bronze,Australia,
+MED9414,Football,Football Event 02,Women,Gold,China,
+MED9415,Football,Football Event 02,Women,Silver,United States,
+MED9416,Football,Football Event 02,Women,Bronze,Australia,
+MED9417,Basketball,Basketball Event 01,Men,Gold,China,
+MED9418,Basketball,Basketball Event 01,Men,Silver,Japan,
+MED9419,Basketball,Basketball Event 01,Men,Bronze,United States,
+MED9420,Basketball,Basketball Event 02,Women,Gold,China,
+MED9421,Basketball,Basketball Event 02,Women,Silver,Italy,
+MED9422,Basketball,Basketball Event 02,Women,Bronze,France,
+MED9423,Basketball,Basketball Event 03,Men,Gold,China,
+MED9424,Basketball,Basketball Event 03,Men,Silver,Japan,
+MED9425,Basketball,Basketball Event 03,Men,Bronze,France,
+MED9426,Basketball,Basketball Event 04,Women,Gold,Germany,
+MED9427,Basketball,Basketball Event 04,Women,Silver,France,
+MED9428,Basketball,Basketball Event 04,Women,Bronze,China,
+MED9429,Volleyball,Volleyball Event 01,Men,Gold,Great Britain,
+MED9430,Volleyball,Volleyball Event 01,Men,Silver,South Africa,
+MED9431,Volleyball,Volleyball Event 01,Men,Bronze,Italy,
+MED9432,Volleyball,Volleyball Event 02,Women,Gold,Australia,
+MED9433,Volleyball,Volleyball Event 02,Women,Silver,China,
+MED9434,Volleyball,Volleyball Event 02,Women,Bronze,United States,
+MED9435,Volleyball,Volleyball Event 03,Men,Gold,United States,
+MED9436,Volleyball,Volleyball Event 03,Men,Silver,Russia,
+MED9437,Volleyball,Volleyball Event 03,Men,Bronze,Japan,
+MED9438,Volleyball,Volleyball Event 04,Women,Gold,Japan,
+MED9439,Volleyball,Volleyball Event 04,Women,Silver,United States,
+MED9440,Volleyball,Volleyball Event 04,Women,Bronze,China,
+MED9441,Hockey,Hockey Event 01,Men,Gold,United States,
+MED9442,Hockey,Hockey Event 01,Men,Silver,Great Britain,
+MED9443,Hockey,Hockey Event 01,Men,Bronze,Japan,
+MED9444,Hockey,Hockey Event 02,Women,Gold,Lithuania,
+MED9445,Hockey,Hockey Event 02,Women,Silver,United States,
+MED9446,Hockey,Hockey Event 02,Women,Bronze,South Africa,
+MED9447,Handball,Handball Event 01,Men,Gold,Great Britain,
+MED9448,Handball,Handball Event 01,Men,Silver,Canada,
+MED9449,Handball,Handball Event 01,Men,Bronze,Japan,
+MED9450,Handball,Handball Event 02,Women,Gold,United States,
+MED9451,Handball,Handball Event 02,Women,Silver,Australia,
+MED9452,Handball,Handball Event 02,Women,Bronze,Japan,
+MED9453,Judo,Judo Event 01,Men,Gold,Belgium,ATH110514
+MED9454,Judo,Judo Event 01,Men,Silver,Brazil,ATH207618
+MED9455,Judo,Judo Event 01,Men,Bronze,Great Britain,ATH182972
+MED9456,Judo,Judo Event 01,Men,Bronze,South Korea,ATH107674
+MED9457,Judo,Judo Event 02,Women,Gold,Jamaica,ATH172217
+MED9458,Judo,Judo Event 02,Women,Silver,France,ATH103696
+MED9459,Judo,Judo Event 02,Women,Bronze,Germany,ATH129653
+MED9460,Judo,Judo Event 02,Women,Bronze,Kenya,ATH154207
+MED9461,Judo,Judo Event 03,Men,Gold,Canada,ATH157242
+MED9462,Judo,Judo Event 03,Men,Silver,China,ATH183870
+MED9463,Judo,Judo Event 03,Men,Bronze,United States,ATH195908
+MED9464,Judo,Judo Event 03,Men,Bronze,France,ATH142731
+MED9465,Judo,Judo Event 04,Women,Gold,United States,ATH196903
+MED9466,Judo,Judo Event 04,Women,Silver,Australia,ATH102127
+MED9467,Judo,Judo Event 04,Women,Bronze,Jamaica,ATH193690
+MED9468,Judo,Judo Event 04,Women,Bronze,Poland,ATH126551
+MED9469,Judo,Judo Event 05,Men,Gold,China,ATH117995
+MED9470,Judo,Judo Event 05,Men,Silver,France,ATH148150
+MED9471,Judo,Judo Event 05,Men,Bronze,India,ATH156273
+MED9472,Judo,Judo Event 05,Men,Bronze,Netherlands,ATH130941
+MED9473,Judo,Judo Event 06,Women,Gold,United States,ATH104221
+MED9474,Judo,Judo Event 06,Women,Silver,Russia,ATH110306
+MED9475,Judo,Judo Event 06,Women,Bronze,Japan,ATH192294
+MED9476,Judo,Judo Event 06,Women,Bronze,Brazil,ATH129278
+MED9477,Judo,Judo Event 07,Men,Gold,Canada,ATH201978
+MED9478,Judo,Judo Event 07,Men,Silver,Russia,ATH102689
+MED9479,Judo,Judo Event 07,Men,Bronze,Japan,ATH125063
+MED9480,Judo,Judo Event 07,Men,Bronze,Nigeria,ATH155506
+MED9481,Judo,Judo Event 08,Women,Gold,Australia,ATH198364
+MED9482,Judo,Judo Event 08,Women,Silver,China,ATH134886
+MED9483,Judo,Judo Event 08,Women,Bronze,Jamaica,ATH188627
+MED9484,Judo,Judo Event 08,Women,Bronze,France,ATH105914
+MED9485,Judo,Judo Event 09,Men,Gold,China,ATH197324
+MED9486,Judo,Judo Event 09,Men,Silver,France,ATH197287
+MED9487,Judo,Judo Event 09,Men,Bronze,Portugal,ATH165258
+MED9488,Judo,Judo Event 09,Men,Bronze,Hungary,ATH199740
+MED9489,Judo,Judo Event 10,Women,Gold,United States,ATH187305
+MED9490,Judo,Judo Event 10,Women,Silver,Australia,ATH101353
+MED9491,Judo,Judo Event 10,Women,Bronze,Great Britain,ATH147158
+MED9492,Judo,Judo Event 10,Women,Bronze,Slovenia,ATH189515
+MED9493,Judo,Judo Event 11,Men,Gold,United States,ATH173043
+MED9494,Judo,Judo Event 11,Men,Silver,France,ATH189544
+MED9495,Judo,Judo Event 11,Men,Bronze,China,ATH116494
+MED9496,Judo,Judo Event 11,Men,Bronze,Switzerland,ATH172366
+MED9497,Judo,Judo Event 12,Women,Gold,United States,ATH112109
+MED9498,Judo,Judo Event 12,Women,Silver,China,ATH118496
+MED9499,Judo,Judo Event 12,Women,Bronze,Switzerland,ATH100520
+MED9500,Judo,Judo Event 12,Women,Bronze,Indonesia,ATH189823
+MED9501,Judo,Judo Event 13,Men,Gold,Argentina,ATH112940
+MED9502,Judo,Judo Event 13,Men,Silver,Norway,ATH160287
+MED9503,Judo,Judo Event 13,Men,Bronze,China,ATH102118
+MED9504,Judo,Judo Event 13,Men,Bronze,Greece,ATH132639
+MED9505,Judo,Judo Event 14,Women,Gold,South Korea,ATH147573
+MED9506,Judo,Judo Event 14,Women,Silver,China,ATH203205
+MED9507,Judo,Judo Event 14,Women,Bronze,United States,ATH123092
+MED9508,Judo,Judo Event 14,Women,Bronze,Ukraine,ATH207282
+MED9509,Boxing,Boxing Event 01,Men,Gold,Germany,ATH137248
+MED9510,Boxing,Boxing Event 01,Men,Silver,United States,ATH158636
+MED9511,Boxing,Boxing Event 01,Men,Bronze,Great Britain,ATH184411
+MED9512,Boxing,Boxing Event 01,Men,Bronze,China,ATH133620
+MED9513,Boxing,Boxing Event 02,Women,Gold,Norway,ATH113271
+MED9514,Boxing,Boxing Event 02,Women,Silver,United States,ATH181374
+MED9515,Boxing,Boxing Event 02,Women,Bronze,China,ATH165888
+MED9516,Boxing,Boxing Event 02,Women,Bronze,Czechia,ATH139970
+MED9517,Boxing,Boxing Event 03,Men,Gold,Japan,ATH143817
+MED9518,Boxing,Boxing Event 03,Men,Silver,China,ATH152038
+MED9519,Boxing,Boxing Event 03,Men,Bronze,Russia,ATH115437
+MED9520,Boxing,Boxing Event 03,Men,Bronze,Australia,ATH154968
+MED9521,Boxing,Boxing Event 04,Women,Gold,United States,ATH186753
+MED9522,Boxing,Boxing Event 04,Women,Silver,Ukraine,ATH168162
+MED9523,Boxing,Boxing Event 04,Women,Bronze,Germany,ATH162656
+MED9524,Boxing,Boxing Event 04,Women,Bronze,Costa Rica,ATH164124
+MED9525,Boxing,Boxing Event 05,Men,Gold,Great Britain,ATH113881
+MED9526,Boxing,Boxing Event 05,Men,Silver,Russia,ATH167845
+MED9527,Boxing,Boxing Event 05,Men,Bronze,Croatia,ATH123509
+MED9528,Boxing,Boxing Event 05,Men,Bronze,Australia,ATH102946
+MED9529,Boxing,Boxing Event 06,Women,Gold,United States,ATH121925
+MED9530,Boxing,Boxing Event 06,Women,Silver,China,ATH188389
+MED9531,Boxing,Boxing Event 06,Women,Bronze,Russia,ATH142481
+MED9532,Boxing,Boxing Event 06,Women,Bronze,Australia,ATH137776
+MED9533,Boxing,Boxing Event 07,Men,Gold,France,ATH164303
+MED9534,Boxing,Boxing Event 07,Men,Silver,Japan,ATH188735
+MED9535,Boxing,Boxing Event 07,Men,Bronze,United States,ATH109793
+MED9536,Boxing,Boxing Event 07,Men,Bronze,Canada,ATH154970
+MED9537,Boxing,Boxing Event 08,Women,Gold,Great Britain,ATH189378
+MED9538,Boxing,Boxing Event 08,Women,Silver,Germany,ATH179859
+MED9539,Boxing,Boxing Event 08,Women,Bronze,United States,ATH137090
+MED9540,Boxing,Boxing Event 08,Women,Bronze,China,ATH150298
+MED9541,Boxing,Boxing Event 09,Men,Gold,China,ATH190472
+MED9542,Boxing,Boxing Event 09,Men,Silver,Netherlands,ATH166715
+MED9543,Boxing,Boxing Event 09,Men,Bronze,Germany,ATH144513
+MED9544,Boxing,Boxing Event 09,Men,Bronze,Spain,ATH161971
+MED9545,Boxing,Boxing Event 10,Women,Gold,Netherlands,ATH162171
+MED9546,Boxing,Boxing Event 10,Women,Silver,United States,ATH110262
+MED9547,Boxing,Boxing Event 10,Women,Bronze,China,ATH100108
+MED9548,Boxing,Boxing Event 10,Women,Bronze,Switzerland,ATH132079
+MED9549,Boxing,Boxing Event 11,Men,Gold,China,ATH144724
+MED9550,Boxing,Boxing Event 11,Men,Silver,Japan,ATH140432
+MED9551,Boxing,Boxing Event 11,Men,Bronze,Russia,ATH107705
+MED9552,Boxing,Boxing Event 11,Men,Bronze,Australia,ATH203341
+MED9553,Boxing,Boxing Event 12,Women,Gold,Japan,ATH195901
+MED9554,Boxing,Boxing Event 12,Women,Silver,China,ATH139092
+MED9555,Boxing,Boxing Event 12,Women,Bronze,Russia,ATH131314
+MED9556,Boxing,Boxing Event 12,Women,Bronze,India,ATH115115
+MED9557,Boxing,Boxing Event 13,Men,Gold,France,ATH199502
+MED9558,Boxing,Boxing Event 13,Men,Silver,Germany,ATH135234
+MED9559,Boxing,Boxing Event 13,Men,Bronze,Australia,ATH125767
+MED9560,Boxing,Boxing Event 13,Men,Bronze,Jamaica,ATH136038
+MED9561,Wrestling,Wrestling Event 01,Men,Gold,Croatia,ATH111809
+MED9562,Wrestling,Wrestling Event 01,Men,Silver,United States,ATH105481
+MED9563,Wrestling,Wrestling Event 01,Men,Bronze,Serbia,ATH179915
+MED9564,Wrestling,Wrestling Event 01,Men,Bronze,Argentina,ATH116753
+MED9565,Wrestling,Wrestling Event 02,Women,Gold,Great Britain,ATH178287
+MED9566,Wrestling,Wrestling Event 02,Women,Silver,United States,ATH193258
+MED9567,Wrestling,Wrestling Event 02,Women,Bronze,Canada,ATH143195
+MED9568,Wrestling,Wrestling Event 02,Women,Bronze,Poland,ATH190183
+MED9569,Wrestling,Wrestling Event 03,Men,Gold,Sweden,ATH106319
+MED9570,Wrestling,Wrestling Event 03,Men,Silver,United States,ATH115880
+MED9571,Wrestling,Wrestling Event 03,Men,Bronze,China,ATH121285
+MED9572,Wrestling,Wrestling Event 03,Men,Bronze,Canada,ATH134056
+MED9573,Wrestling,Wrestling Event 04,Women,Gold,France,ATH155602
+MED9574,Wrestling,Wrestling Event 04,Women,Silver,Russia,ATH120983
+MED9575,Wrestling,Wrestling Event 04,Women,Bronze,Czechia,ATH180746
+MED9576,Wrestling,Wrestling Event 04,Women,Bronze,New Zealand,ATH154254
+MED9577,Wrestling,Wrestling Event 05,Men,Gold,Italy,ATH193401
+MED9578,Wrestling,Wrestling Event 05,Men,Silver,Hungary,ATH166778
+MED9579,Wrestling,Wrestling Event 05,Men,Bronze,China,ATH191203
+MED9580,Wrestling,Wrestling Event 05,Men,Bronze,Denmark,ATH117524
+MED9581,Wrestling,Wrestling Event 06,Women,Gold,Sweden,ATH188390
+MED9582,Wrestling,Wrestling Event 06,Women,Silver,United States,ATH164502
+MED9583,Wrestling,Wrestling Event 06,Women,Bronze,China,ATH192070
+MED9584,Wrestling,Wrestling Event 06,Women,Bronze,Iran,ATH161774
+MED9585,Wrestling,Wrestling Event 07,Men,Gold,China,ATH135332
+MED9586,Wrestling,Wrestling Event 07,Men,Silver,Russia,ATH193382
+MED9587,Wrestling,Wrestling Event 07,Men,Bronze,Ukraine,ATH168131
+MED9588,Wrestling,Wrestling Event 07,Men,Bronze,Mongolia,ATH129470
+MED9589,Wrestling,Wrestling Event 08,Women,Gold,United States,ATH191261
+MED9590,Wrestling,Wrestling Event 08,Women,Silver,Great Britain,ATH147058
+MED9591,Wrestling,Wrestling Event 08,Women,Bronze,Sweden,ATH124623
+MED9592,Wrestling,Wrestling Event 08,Women,Bronze,Russia,ATH192757
+MED9593,Wrestling,Wrestling Event 09,Men,Gold,Germany,ATH178794
+MED9594,Wrestling,Wrestling Event 09,Men,Silver,Netherlands,ATH158348
+MED9595,Wrestling,Wrestling Event 09,Men,Bronze,Ukraine,ATH105979
+MED9596,Wrestling,Wrestling Event 09,Men,Bronze,Argentina,ATH104660
+MED9597,Wrestling,Wrestling Event 10,Women,Gold,South Korea,ATH160818
+MED9598,Wrestling,Wrestling Event 10,Women,Silver,Germany,ATH136149
+MED9599,Wrestling,Wrestling Event 10,Women,Bronze,Japan,ATH129999
+MED9600,Wrestling,Wrestling Event 10,Women,Bronze,Hungary,ATH148100
+MED9601,Wrestling,Wrestling Event 11,Men,Gold,Japan,ATH148536
+MED9602,Wrestling,Wrestling Event 11,Men,Silver,Russia,ATH198506
+MED9603,Wrestling,Wrestling Event 11,Men,Bronze,China,ATH111372
+MED9604,Wrestling,Wrestling Event 11,Men,Bronze,New Zealand,ATH197566
+MED9605,Wrestling,Wrestling Event 12,Women,Gold,Japan,ATH141932
+MED9606,Wrestling,Wrestling Event 12,Women,Silver,United States,ATH184826
+MED9607,Wrestling,Wrestling Event 12,Women,Bronze,China,ATH127297
+MED9608,Wrestling,Wrestling Event 12,Women,Bronze,Spain,ATH124851
+MED9609,Wrestling,Wrestling Event 13,Men,Gold,Japan,ATH179881
+MED9610,Wrestling,Wrestling Event 13,Men,Silver,South Korea,ATH135769
+MED9611,Wrestling,Wrestling Event 13,Men,Bronze,Italy,ATH140730
+MED9612,Wrestling,Wrestling Event 13,Men,Bronze,Russia,ATH141301
+MED9613,Wrestling,Wrestling Event 14,Women,Gold,Great Britain,ATH136877
+MED9614,Wrestling,Wrestling Event 14,Women,Silver,United States,ATH182873
+MED9615,Wrestling,Wrestling Event 14,Women,Bronze,China,ATH133222
+MED9616,Wrestling,Wrestling Event 14,Women,Bronze,Australia,ATH207175
+MED9617,Wrestling,Wrestling Event 15,Men,Gold,Serbia,ATH115576
+MED9618,Wrestling,Wrestling Event 15,Men,Silver,Norway,ATH157554
+MED9619,Wrestling,Wrestling Event 15,Men,Bronze,South Korea,ATH151552
+MED9620,Wrestling,Wrestling Event 15,Men,Bronze,Italy,ATH155881
+MED9621,Wrestling,Wrestling Event 16,Women,Gold,China,ATH130073
+MED9622,Wrestling,Wrestling Event 16,Women,Silver,Germany,ATH203579
+MED9623,Wrestling,Wrestling Event 16,Women,Bronze,Jamaica,ATH166377
+MED9624,Wrestling,Wrestling Event 16,Women,Bronze,Egypt,ATH172186
+MED9625,Wrestling,Wrestling Event 17,Men,Gold,United States,ATH185281
+MED9626,Wrestling,Wrestling Event 17,Men,Silver,Australia,ATH103239
+MED9627,Wrestling,Wrestling Event 17,Men,Bronze,Brazil,ATH165743
+MED9628,Wrestling,Wrestling Event 17,Men,Bronze,Spain,ATH171273
+MED9629,Wrestling,Wrestling Event 18,Women,Gold,United States,ATH180128
+MED9630,Wrestling,Wrestling Event 18,Women,Silver,Germany,ATH162470
+MED9631,Wrestling,Wrestling Event 18,Women,Bronze,Japan,ATH112195
+MED9632,Wrestling,Wrestling Event 18,Women,Bronze,Cuba,ATH130534
+MED9633,Weightlifting,Weightlifting Event 01,Men,Gold,Netherlands,ATH201960
+MED9634,Weightlifting,Weightlifting Event 01,Men,Silver,China,ATH168720
+MED9635,Weightlifting,Weightlifting Event 01,Men,Bronze,Russia,ATH161957
+MED9636,Weightlifting,Weightlifting Event 02,Women,Gold,Brazil,ATH181415
+MED9637,Weightlifting,Weightlifting Event 02,Women,Silver,Kenya,ATH142982
+MED9638,Weightlifting,Weightlifting Event 02,Women,Bronze,South Africa,ATH126677
+MED9639,Weightlifting,Weightlifting Event 03,Men,Gold,Sweden,ATH113528
+MED9640,Weightlifting,Weightlifting Event 03,Men,Silver,United States,ATH172748
+MED9641,Weightlifting,Weightlifting Event 03,Men,Bronze,China,ATH145906
+MED9642,Weightlifting,Weightlifting Event 04,Women,Gold,Kenya,ATH110303
+MED9643,Weightlifting,Weightlifting Event 04,Women,Silver,China,ATH154778
+MED9644,Weightlifting,Weightlifting Event 04,Women,Bronze,United States,ATH207684
+MED9645,Weightlifting,Weightlifting Event 05,Men,Gold,United States,ATH147705
+MED9646,Weightlifting,Weightlifting Event 05,Men,Silver,China,ATH145776
+MED9647,Weightlifting,Weightlifting Event 05,Men,Bronze,Netherlands,ATH140136
+MED9648,Weightlifting,Weightlifting Event 06,Women,Gold,France,ATH112946
+MED9649,Weightlifting,Weightlifting Event 06,Women,Silver,China,ATH109167
+MED9650,Weightlifting,Weightlifting Event 06,Women,Bronze,Ukraine,ATH171813
+MED9651,Weightlifting,Weightlifting Event 07,Men,Gold,China,ATH187916
+MED9652,Weightlifting,Weightlifting Event 07,Men,Silver,Great Britain,ATH148738
+MED9653,Weightlifting,Weightlifting Event 07,Men,Bronze,United States,ATH164377
+MED9654,Weightlifting,Weightlifting Event 08,Women,Gold,China,ATH172898
+MED9655,Weightlifting,Weightlifting Event 08,Women,Silver,New Zealand,ATH209192
+MED9656,Weightlifting,Weightlifting Event 08,Women,Bronze,United States,ATH195604
+MED9657,Weightlifting,Weightlifting Event 09,Men,Gold,China,ATH199445
+MED9658,Weightlifting,Weightlifting Event 09,Men,Silver,Great Britain,ATH104507
+MED9659,Weightlifting,Weightlifting Event 09,Men,Bronze,Australia,ATH208180
+MED9660,Weightlifting,Weightlifting Event 10,Women,Gold,Germany,ATH135899
+MED9661,Weightlifting,Weightlifting Event 10,Women,Silver,Spain,ATH189284
+MED9662,Weightlifting,Weightlifting Event 10,Women,Bronze,Russia,ATH122658
+MED9663,Weightlifting,Weightlifting Event 11,Men,Gold,United States,ATH168001
+MED9664,Weightlifting,Weightlifting Event 11,Men,Silver,Germany,ATH145485
+MED9665,Weightlifting,Weightlifting Event 11,Men,Bronze,Australia,ATH114719
+MED9666,Weightlifting,Weightlifting Event 12,Women,Gold,South Africa,ATH146509
+MED9667,Weightlifting,Weightlifting Event 12,Women,Silver,Japan,ATH156036
+MED9668,Weightlifting,Weightlifting Event 12,Women,Bronze,China,ATH100391
+MED9669,Weightlifting,Weightlifting Event 13,Men,Gold,United States,ATH177625
+MED9670,Weightlifting,Weightlifting Event 13,Men,Silver,Slovenia,ATH126434
+MED9671,Weightlifting,Weightlifting Event 13,Men,Bronze,China,ATH153296
+MED9672,Weightlifting,Weightlifting Event 14,Women,Gold,Kenya,ATH165748
+MED9673,Weightlifting,Weightlifting Event 14,Women,Silver,Germany,ATH199392
+MED9674,Weightlifting,Weightlifting Event 14,Women,Bronze,United States,ATH173437
+MED9675,Tennis,Tennis Event 01,Men,Gold,South Korea,ATH135604
+MED9676,Tennis,Tennis Event 01,Men,Silver,New Zealand,ATH106272
+MED9677,Tennis,Tennis Event 01,Men,Bronze,Great Britain,ATH173121
+MED9678,Tennis,Tennis Event 02,Women,Gold,Japan,ATH146887
+MED9679,Tennis,Tennis Event 02,Women,Silver,China,ATH149929
+MED9680,Tennis,Tennis Event 02,Women,Bronze,Great Britain,ATH194858
+MED9681,Tennis,Tennis Event 03,Men,Gold,United States,ATH143648
+MED9682,Tennis,Tennis Event 03,Men,Silver,China,ATH130389
+MED9683,Tennis,Tennis Event 03,Men,Bronze,Germany,ATH163424
+MED9684,Tennis,Tennis Event 04,Women,Gold,China,ATH185757
+MED9685,Tennis,Tennis Event 04,Women,Silver,Croatia,ATH105139
+MED9686,Tennis,Tennis Event 04,Women,Bronze,Italy,ATH184444
+MED9687,Tennis,Tennis Event 05,Mixed,Gold,China,ATH161597
+MED9688,Tennis,Tennis Event 05,Mixed,Silver,Denmark,ATH169760
+MED9689,Tennis,Tennis Event 05,Mixed,Bronze,Great Britain,ATH152428
+MED9690,Badminton,Badminton Event 01,Men,Gold,Russia,ATH183667
+MED9691,Badminton,Badminton Event 01,Men,Silver,Great Britain,ATH169563
+MED9692,Badminton,Badminton Event 01,Men,Bronze,China,ATH136282
+MED9693,Badminton,Badminton Event 02,Women,Gold,United States,ATH188398
+MED9694,Badminton,Badminton Event 02,Women,Silver,Great Britain,ATH205504
+MED9695,Badminton,Badminton Event 02,Women,Bronze,Russia,ATH201849
+MED9696,Badminton,Badminton Event 03,Men,Gold,China,ATH208128
+MED9697,Badminton,Badminton Event 03,Men,Silver,United States,ATH137712
+MED9698,Badminton,Badminton Event 03,Men,Bronze,Brazil,ATH160827
+MED9699,Badminton,Badminton Event 04,Women,Gold,United States,ATH151681
+MED9700,Badminton,Badminton Event 04,Women,Silver,France,ATH122096
+MED9701,Badminton,Badminton Event 04,Women,Bronze,Japan,ATH108852
+MED9702,Badminton,Badminton Event 05,Mixed,Gold,United States,ATH189851
+MED9703,Badminton,Badminton Event 05,Mixed,Silver,Australia,ATH131476
+MED9704,Badminton,Badminton Event 05,Mixed,Bronze,China,ATH136863
+MED9705,Table Tennis,Table Tennis Event 01,Men,Gold,Netherlands,ATH165800
+MED9706,Table Tennis,Table Tennis Event 01,Men,Silver,Germany,ATH152676
+MED9707,Table Tennis,Table Tennis Event 01,Men,Bronze,China,ATH139932
+MED9708,Table Tennis,Table Tennis Event 02,Women,Gold,Russia,ATH179924
+MED9709,Table Tennis,Table Tennis Event 02,Women,Silver,Norway,ATH164153
+MED9710,Table Tennis,Table Tennis Event 02,Women,Bronze,South Korea,ATH192658
+MED9711,Table Tennis,Table Tennis Event 03,Men,Gold,Germany,ATH191917
+MED9712,Table Tennis,Table Tennis Event 03,Men,Silver,Ukraine,ATH109926
+MED9713,Table Tennis,Table Tennis Event 03,Men,Bronze,Netherlands,ATH150085
+MED9714,Table Tennis,Table Tennis Event 04,Women,Gold,United States,ATH178097
+MED9715,Table Tennis,Table Tennis Event 04,Women,Silver,China,ATH131401
+MED9716,Table Tennis,Table Tennis Event 04,Women,Bronze,Netherlands,ATH128349
+MED9717,Table Tennis,Table Tennis Event 05,Mixed,Gold,China,ATH201193
+MED9718,Table Tennis,Table Tennis Event 05,Mixed,Silver,Great Britain,ATH209917
+MED9719,Table Tennis,Table Tennis Event 05,Mixed,Bronze,Russia,ATH115052
+MED9720,Fencing,Fencing Event 01,Men,Gold,Nigeria,ATH110726
+MED9721,Fencing,Fencing Event 01,Men,Silver,South Korea,ATH200525
+MED9722,Fencing,Fencing Event 01,Men,Bronze,Canada,ATH180813
+MED9723,Fencing,Fencing Event 02,Women,Gold,France,ATH170139
+MED9724,Fencing,Fencing Event 02,Women,Silver,United States,ATH133561
+MED9725,Fencing,Fencing Event 02,Women,Bronze,Norway,ATH125785
+MED9726,Fencing,Fencing Event 03,Men,Gold,France,ATH159441
+MED9727,Fencing,Fencing Event 03,Men,Silver,Great Britain,ATH204260
+MED9728,Fencing,Fencing Event 03,Men,Bronze,China,ATH122563
+MED9729,Fencing,Fencing Event 04,Women,Gold,Japan,ATH151458
+MED9730,Fencing,Fencing Event 04,Women,Silver,Great Britain,ATH166100
+MED9731,Fencing,Fencing Event 04,Women,Bronze,Russia,ATH182094
+MED9732,Fencing,Fencing Event 05,Men,Gold,China,ATH171409
+MED9733,Fencing,Fencing Event 05,Men,Silver,Australia,ATH185878
+MED9734,Fencing,Fencing Event 05,Men,Bronze,South Korea,ATH180467
+MED9735,Fencing,Fencing Event 06,Women,Gold,China,ATH105222
+MED9736,Fencing,Fencing Event 06,Women,Silver,United States,ATH102492
+MED9737,Fencing,Fencing Event 06,Women,Bronze,Great Britain,ATH126057
+MED9738,Fencing,Fencing Event 07,Men,Gold,United States,ATH204324
+MED9739,Fencing,Fencing Event 07,Men,Silver,France,ATH183959
+MED9740,Fencing,Fencing Event 07,Men,Bronze,Australia,ATH206935
+MED9741,Fencing,Fencing Event 08,Women,Gold,United States,ATH204892
+MED9742,Fencing,Fencing Event 08,Women,Silver,China,ATH187128
+MED9743,Fencing,Fencing Event 08,Women,Bronze,Canada,ATH151953
+MED9744,Fencing,Fencing Event 09,Men,Gold,China,ATH127011
+MED9745,Fencing,Fencing Event 09,Men,Silver,Brazil,ATH127012
+MED9746,Fencing,Fencing Event 09,Men,Bronze,Netherlands,ATH158885
+MED9747,Fencing,Fencing Event 10,Women,Gold,Australia,ATH208699
+MED9748,Fencing,Fencing Event 10,Women,Silver,Ukraine,ATH115719
+MED9749,Fencing,Fencing Event 10,Women,Bronze,China,ATH153521
+MED9750,Fencing,Fencing Event 11,Men,Gold,China,ATH195141
+MED9751,Fencing,Fencing Event 11,Men,Silver,Australia,ATH119459
+MED9752,Fencing,Fencing Event 11,Men,Bronze,Spain,ATH172261
+MED9753,Fencing,Fencing Event 12,Women,Gold,Netherlands,ATH206950
+MED9754,Fencing,Fencing Event 12,Women,Silver,United States,ATH170946
+MED9755,Fencing,Fencing Event 12,Women,Bronze,Canada,ATH159134
+MED9756,Archery,Archery Event 01,Men,Gold,France,ATH156329
+MED9757,Archery,Archery Event 01,Men,Silver,Italy,ATH106152
+MED9758,Archery,Archery Event 01,Men,Bronze,China,ATH153944
+MED9759,Archery,Archery Event 02,Women,Gold,United States,ATH105182
+MED9760,Archery,Archery Event 02,Women,Silver,Great Britain,ATH137263
+MED9761,Archery,Archery Event 02,Women,Bronze,Italy,ATH153677
+MED9762,Archery,Archery Event 03,Men,Gold,Spain,ATH106086
+MED9763,Archery,Archery Event 03,Men,Silver,Germany,ATH161483
+MED9764,Archery,Archery Event 03,Men,Bronze,United States,ATH200688
+MED9765,Archery,Archery Event 04,Women,Gold,United States,ATH161807
+MED9766,Archery,Archery Event 04,Women,Silver,Russia,ATH148528
+MED9767,Archery,Archery Event 04,Women,Bronze,Japan,ATH131835
+MED9768,Archery,Archery Event 05,Men,Gold,Ukraine,ATH113324
+MED9769,Archery,Archery Event 05,Men,Silver,Serbia,ATH104177
+MED9770,Archery,Archery Event 05,Men,Bronze,United States,ATH157474
+MED9771,Shooting,Shooting Event 01,Men,Gold,China,ATH128724
+MED9772,Shooting,Shooting Event 01,Men,Silver,France,ATH146158
+MED9773,Shooting,Shooting Event 01,Men,Bronze,Russia,ATH102777
+MED9774,Shooting,Shooting Event 02,Women,Gold,Russia,ATH152600
+MED9775,Shooting,Shooting Event 02,Women,Silver,Australia,ATH163034
+MED9776,Shooting,Shooting Event 02,Women,Bronze,Germany,ATH121854
+MED9777,Shooting,Shooting Event 03,Men,Gold,United States,ATH123224
+MED9778,Shooting,Shooting Event 03,Men,Silver,Spain,ATH108329
+MED9779,Shooting,Shooting Event 03,Men,Bronze,Great Britain,ATH123633
+MED9780,Shooting,Shooting Event 04,Women,Gold,China,ATH195857
+MED9781,Shooting,Shooting Event 04,Women,Silver,United States,ATH186463
+MED9782,Shooting,Shooting Event 04,Women,Bronze,Australia,ATH113438
+MED9783,Shooting,Shooting Event 05,Men,Gold,United States,ATH114350
+MED9784,Shooting,Shooting Event 05,Men,Silver,Italy,ATH152900
+MED9785,Shooting,Shooting Event 05,Men,Bronze,Japan,ATH192602
+MED9786,Shooting,Shooting Event 06,Women,Gold,Hungary,ATH176243
+MED9787,Shooting,Shooting Event 06,Women,Silver,United States,ATH182533
+MED9788,Shooting,Shooting Event 06,Women,Bronze,Iran,ATH195761
+MED9789,Shooting,Shooting Event 07,Men,Gold,Great Britain,ATH193473
+MED9790,Shooting,Shooting Event 07,Men,Silver,United States,ATH157530
+MED9791,Shooting,Shooting Event 07,Men,Bronze,China,ATH193636
+MED9792,Shooting,Shooting Event 08,Women,Gold,Great Britain,ATH149072
+MED9793,Shooting,Shooting Event 08,Women,Silver,Argentina,ATH158125
+MED9794,Shooting,Shooting Event 08,Women,Bronze,United States,ATH198844
+MED9795,Shooting,Shooting Event 09,Men,Gold,Greece,ATH191864
+MED9796,Shooting,Shooting Event 09,Men,Silver,United States,ATH182907
+MED9797,Shooting,Shooting Event 09,Men,Bronze,Great Britain,ATH178257
+MED9798,Shooting,Shooting Event 10,Women,Gold,China,ATH148869
+MED9799,Shooting,Shooting Event 10,Women,Silver,Great Britain,ATH143518
+MED9800,Shooting,Shooting Event 10,Women,Bronze,Brazil,ATH175245
+MED9801,Shooting,Shooting Event 11,Men,Gold,United States,ATH111889
+MED9802,Shooting,Shooting Event 11,Men,Silver,Kenya,ATH179988
+MED9803,Shooting,Shooting Event 11,Men,Bronze,Great Britain,ATH118907
+MED9804,Shooting,Shooting Event 12,Women,Gold,South Africa,ATH117030
+MED9805,Shooting,Shooting Event 12,Women,Silver,United States,ATH117942
+MED9806,Shooting,Shooting Event 12,Women,Bronze,Japan,ATH186642
+MED9807,Shooting,Shooting Event 13,Men,Gold,Great Britain,ATH164867
+MED9808,Shooting,Shooting Event 13,Men,Silver,Ireland,ATH187086
+MED9809,Shooting,Shooting Event 13,Men,Bronze,United States,ATH202679
+MED9810,Shooting,Shooting Event 14,Women,Gold,Germany,ATH106991
+MED9811,Shooting,Shooting Event 14,Women,Silver,South Korea,ATH208367
+MED9812,Shooting,Shooting Event 14,Women,Bronze,Greece,ATH143735
+MED9813,Shooting,Shooting Event 15,Men,Gold,Japan,ATH196193
+MED9814,Shooting,Shooting Event 15,Men,Silver,Russia,ATH159788
+MED9815,Shooting,Shooting Event 15,Men,Bronze,South Korea,ATH194182
+MED9816,Diving,Diving Event 01,Men,Gold,Australia,ATH134008
+MED9817,Diving,Diving Event 01,Men,Silver,United States,ATH146957
+MED9818,Diving,Diving Event 01,Men,Bronze,China,ATH180155
+MED9819,Diving,Diving Event 02,Women,Gold,Cuba,ATH201471
+MED9820,Diving,Diving Event 02,Women,Silver,Italy,ATH186766
+MED9821,Diving,Diving Event 02,Women,Bronze,Japan,ATH147354
+MED9822,Diving,Diving Event 03,Men,Gold,China,ATH159748
+MED9823,Diving,Diving Event 03,Men,Silver,Italy,ATH148254
+MED9824,Diving,Diving Event 03,Men,Bronze,United States,ATH168279
+MED9825,Diving,Diving Event 04,Women,Gold,China,ATH189323
+MED9826,Diving,Diving Event 04,Women,Silver,Australia,ATH150328
+MED9827,Diving,Diving Event 04,Women,Bronze,Italy,ATH203823
+MED9828,Diving,Diving Event 05,Men,Gold,China,ATH180155
+MED9829,Diving,Diving Event 05,Men,Silver,Germany,ATH175080
+MED9830,Diving,Diving Event 05,Men,Bronze,Great Britain,ATH157348
+MED9831,Diving,Diving Event 06,Women,Gold,Belgium,ATH112234
+MED9832,Diving,Diving Event 06,Women,Silver,China,ATH130024
+MED9833,Diving,Diving Event 06,Women,Bronze,South Korea,ATH200658
+MED9834,Diving,Diving Event 07,Men,Gold,France,ATH132420
+MED9835,Diving,Diving Event 07,Men,Silver,United States,ATH204359
+MED9836,Diving,Diving Event 07,Men,Bronze,Great Britain,ATH168661
+MED9837,Diving,Diving Event 08,Women,Gold,Italy,ATH139831
+MED9838,Diving,Diving Event 08,Women,Silver,China,ATH103426
+MED9839,Diving,Diving Event 08,Women,Bronze,Japan,ATH150299
+MED9840,Sailing,Sailing Event 01,Men,Gold,United States,ATH181370
+MED9841,Sailing,Sailing Event 01,Men,Silver,Japan,ATH174692
+MED9842,Sailing,Sailing Event 01,Men,Bronze,Australia,ATH169589
+MED9843,Sailing,Sailing Event 02,Women,Gold,China,ATH205485
+MED9844,Sailing,Sailing Event 02,Women,Silver,Australia,ATH199726
+MED9845,Sailing,Sailing Event 02,Women,Bronze,Sweden,ATH176294
+MED9846,Sailing,Sailing Event 03,Men,Gold,China,ATH115738
+MED9847,Sailing,Sailing Event 03,Men,Silver,United States,ATH109736
+MED9848,Sailing,Sailing Event 03,Men,Bronze,Great Britain,ATH167769
+MED9849,Sailing,Sailing Event 04,Women,Gold,United States,ATH175136
+MED9850,Sailing,Sailing Event 04,Women,Silver,Australia,ATH139518
+MED9851,Sailing,Sailing Event 04,Women,Bronze,Spain,ATH111223
+MED9852,Sailing,Sailing Event 05,Men,Gold,Italy,ATH148490
+MED9853,Sailing,Sailing Event 05,Men,Silver,Spain,ATH181341
+MED9854,Sailing,Sailing Event 05,Men,Bronze,United States,ATH113552
+MED9855,Sailing,Sailing Event 06,Women,Gold,China,ATH127248
+MED9856,Sailing,Sailing Event 06,Women,Silver,Great Britain,ATH165982
+MED9857,Sailing,Sailing Event 06,Women,Bronze,Germany,ATH192895
+MED9858,Sailing,Sailing Event 07,Men,Gold,Japan,ATH195631
+MED9859,Sailing,Sailing Event 07,Men,Silver,France,ATH192642
+MED9860,Sailing,Sailing Event 07,Men,Bronze,United States,ATH177622
+MED9861,Sailing,Sailing Event 08,Women,Gold,United States,ATH144277
+MED9862,Sailing,Sailing Event 08,Women,Silver,Germany,ATH147748
+MED9863,Sailing,Sailing Event 08,Women,Bronze,Russia,ATH116541
+MED9864,Sailing,Sailing Event 09,Men,Gold,China,ATH206486
+MED9865,Sailing,Sailing Event 09,Men,Silver,Japan,ATH117348
+MED9866,Sailing,Sailing Event 09,Men,Bronze,France,ATH142133
+MED9867,Sailing,Sailing Event 10,Women,Gold,New Zealand,ATH107002
+MED9868,Sailing,Sailing Event 10,Women,Silver,Russia,ATH164593
+MED9869,Sailing,Sailing Event 10,Women,Bronze,Brazil,ATH183433
+MED9870,Equestrian,Equestrian Event 01,Men,Gold,China,ATH174800
+MED9871,Equestrian,Equestrian Event 01,Men,Silver,Jamaica,ATH165418
+MED9872,Equestrian,Equestrian Event 01,Men,Bronze,Italy,ATH181395
+MED9873,Equestrian,Equestrian Event 02,Women,Gold,China,ATH200851
+MED9874,Equestrian,Equestrian Event 02,Women,Silver,United States,ATH192080
+MED9875,Equestrian,Equestrian Event 02,Women,Bronze,Netherlands,ATH189305
+MED9876,Equestrian,Equestrian Event 03,Men,Gold,Turkey,ATH140178
+MED9877,Equestrian,Equestrian Event 03,Men,Silver,United States,ATH128018
+MED9878,Equestrian,Equestrian Event 03,Men,Bronze,Jamaica,ATH156210
+MED9879,Equestrian,Equestrian Event 04,Women,Gold,Netherlands,ATH149148
+MED9880,Equestrian,Equestrian Event 04,Women,Silver,United States,ATH134894
+MED9881,Equestrian,Equestrian Event 04,Women,Bronze,Great Britain,ATH139741
+MED9882,Equestrian,Equestrian Event 05,Men,Gold,France,ATH113818
+MED9883,Equestrian,Equestrian Event 05,Men,Silver,Brazil,ATH175233
+MED9884,Equestrian,Equestrian Event 05,Men,Bronze,Great Britain,ATH167857
+MED9885,Equestrian,Equestrian Event 06,Women,Gold,United States,ATH206897
+MED9886,Equestrian,Equestrian Event 06,Women,Silver,Hungary,ATH122442
+MED9887,Equestrian,Equestrian Event 06,Women,Bronze,Netherlands,ATH185685
+MED9888,Triathlon,Triathlon Event 01,Men,Gold,Australia,ATH113333
+MED9889,Triathlon,Triathlon Event 01,Men,Silver,Argentina,ATH204426
+MED9890,Triathlon,Triathlon Event 01,Men,Bronze,Russia,ATH155272
+MED9891,Triathlon,Triathlon Event 02,Women,Gold,China,ATH118009
+MED9892,Triathlon,Triathlon Event 02,Women,Silver,Poland,ATH177109
+MED9893,Triathlon,Triathlon Event 02,Women,Bronze,United States,ATH171062
+MED9894,Triathlon,Triathlon Event 03,Men,Gold,Russia,ATH116778
+MED9895,Triathlon,Triathlon Event 03,Men,Silver,Canada,ATH187104
+MED9896,Triathlon,Triathlon Event 03,Men,Bronze,Japan,ATH207604
+MED9897,Rugby Sevens,Rugby Sevens Event 01,Men,Gold,Germany,
+MED9898,Rugby Sevens,Rugby Sevens Event 01,Men,Silver,United States,
+MED9899,Rugby Sevens,Rugby Sevens Event 01,Men,Bronze,France,
+MED9900,Rugby Sevens,Rugby Sevens Event 02,Women,Gold,Brazil,
+MED9901,Rugby Sevens,Rugby Sevens Event 02,Women,Silver,China,
+MED9902,Rugby Sevens,Rugby Sevens Event 02,Women,Bronze,Great Britain,
+MED9903,Water Polo,Water Polo Event 01,Men,Gold,China,
+MED9904,Water Polo,Water Polo Event 01,Men,Silver,Norway,
+MED9905,Water Polo,Water Polo Event 01,Men,Bronze,Great Britain,
+MED9906,Water Polo,Water Polo Event 02,Women,Gold,China,
+MED9907,Water Polo,Water Polo Event 02,Women,Silver,Australia,
+MED9908,Water Polo,Water Polo Event 02,Women,Bronze,Germany,
+MED9909,Canoe Sprint,Canoe Sprint Event 01,Men,Gold,China,ATH188643
+MED9910,Canoe Sprint,Canoe Sprint Event 01,Men,Silver,Japan,ATH119517
+MED9911,Canoe Sprint,Canoe Sprint Event 01,Men,Bronze,Sweden,ATH170695
+MED9912,Canoe Sprint,Canoe Sprint Event 02,Women,Gold,China,ATH123867
+MED9913,Canoe Sprint,Canoe Sprint Event 02,Women,Silver,Germany,ATH138500
+MED9914,Canoe Sprint,Canoe Sprint Event 02,Women,Bronze,Japan,ATH118102
+MED9915,Canoe Sprint,Canoe Sprint Event 03,Men,Gold,Great Britain,ATH142613
+MED9916,Canoe Sprint,Canoe Sprint Event 03,Men,Silver,China,ATH102128
+MED9917,Canoe Sprint,Canoe Sprint Event 03,Men,Bronze,France,ATH207744
+MED9918,Canoe Sprint,Canoe Sprint Event 04,Women,Gold,Japan,ATH110457
+MED9919,Canoe Sprint,Canoe Sprint Event 04,Women,Silver,Great Britain,ATH188419
+MED9920,Canoe Sprint,Canoe Sprint Event 04,Women,Bronze,United States,ATH184885
+MED9921,Canoe Sprint,Canoe Sprint Event 05,Men,Gold,United States,ATH155554
+MED9922,Canoe Sprint,Canoe Sprint Event 05,Men,Silver,China,ATH132379
+MED9923,Canoe Sprint,Canoe Sprint Event 05,Men,Bronze,Netherlands,ATH164971
+MED9924,Canoe Sprint,Canoe Sprint Event 06,Women,Gold,United States,ATH113972
+MED9925,Canoe Sprint,Canoe Sprint Event 06,Women,Silver,Brazil,ATH154033
+MED9926,Canoe Sprint,Canoe Sprint Event 06,Women,Bronze,Germany,ATH172028
+MED9927,Canoe Sprint,Canoe Sprint Event 07,Men,Gold,Netherlands,ATH160406
+MED9928,Canoe Sprint,Canoe Sprint Event 07,Men,Silver,South Korea,ATH199185
+MED9929,Canoe Sprint,Canoe Sprint Event 07,Men,Bronze,China,ATH201655
+MED9930,Canoe Sprint,Canoe Sprint Event 08,Women,Gold,Hungary,ATH138108
+MED9931,Canoe Sprint,Canoe Sprint Event 08,Women,Silver,United States,ATH204610
+MED9932,Canoe Sprint,Canoe Sprint Event 08,Women,Bronze,Sweden,ATH161682
+MED9933,Canoe Sprint,Canoe Sprint Event 09,Men,Gold,France,ATH159939
+MED9934,Canoe Sprint,Canoe Sprint Event 09,Men,Silver,Germany,ATH172428
+MED9935,Canoe Sprint,Canoe Sprint Event 09,Men,Bronze,Great Britain,ATH156342
+MED9936,Canoe Sprint,Canoe Sprint Event 10,Women,Gold,Japan,ATH122237
+MED9937,Canoe Sprint,Canoe Sprint Event 10,Women,Silver,Great Britain,ATH139722
+MED9938,Canoe Sprint,Canoe Sprint Event 10,Women,Bronze,Kenya,ATH165010
+MED9939,Skateboarding,Skateboarding Event 01,Men,Gold,United States,ATH170906
+MED9940,Skateboarding,Skateboarding Event 01,Men,Silver,Germany,ATH139706
+MED9941,Skateboarding,Skateboarding Event 01,Men,Bronze,China,ATH186405
+MED9942,Skateboarding,Skateboarding Event 02,Women,Gold,Great Britain,ATH136153
+MED9943,Skateboarding,Skateboarding Event 02,Women,Silver,United States,ATH139415
+MED9944,Skateboarding,Skateboarding Event 02,Women,Bronze,Brazil,ATH143248
+MED9945,Skateboarding,Skateboarding Event 03,Men,Gold,Germany,ATH127266
+MED9946,Skateboarding,Skateboarding Event 03,Men,Silver,China,ATH108192
+MED9947,Skateboarding,Skateboarding Event 03,Men,Bronze,Portugal,ATH148823
+MED9948,Skateboarding,Skateboarding Event 04,Women,Gold,Ukraine,ATH163545
+MED9949,Skateboarding,Skateboarding Event 04,Women,Silver,Japan,ATH172061
+MED9950,Skateboarding,Skateboarding Event 04,Women,Bronze,China,ATH144169
+MED9951,Climbing,Climbing Event 01,Men,Gold,United States,ATH207512
+MED9952,Climbing,Climbing Event 01,Men,Silver,China,ATH179442
+MED9953,Climbing,Climbing Event 01,Men,Bronze,Netherlands,ATH194226
+MED9954,Climbing,Climbing Event 02,Women,Gold,Hungary,ATH112712
+MED9955,Climbing,Climbing Event 02,Women,Silver,South Korea,ATH182497
+MED9956,Climbing,Climbing Event 02,Women,Bronze,Netherlands,ATH180851
+MED9957,Climbing,Climbing Event 03,Men,Gold,China,ATH183390
+MED9958,Climbing,Climbing Event 03,Men,Silver,Japan,ATH155727
+MED9959,Climbing,Climbing Event 03,Men,Bronze,Sweden,ATH207888
+MED9960,Climbing,Climbing Event 04,Women,Gold,Germany,ATH189381
+MED9961,Climbing,Climbing Event 04,Women,Silver,China,ATH195950
+MED9962,Climbing,Climbing Event 04,Women,Bronze,United States,ATH192121
+MED9963,Surfing,Surfing Event 01,Men,Gold,United States,ATH117320
+MED9964,Surfing,Surfing Event 01,Men,Silver,China,ATH116253
+MED9965,Surfing,Surfing Event 01,Men,Bronze,Norway,ATH208183
+MED9966,Surfing,Surfing Event 02,Women,Gold,China,ATH188403
+MED9967,Surfing,Surfing Event 02,Women,Silver,Netherlands,ATH115201
+MED9968,Surfing,Surfing Event 02,Women,Bronze,Germany,ATH175649
+MED9969,Taekwondo,Taekwondo Event 01,Men,Gold,China,ATH112751
+MED9970,Taekwondo,Taekwondo Event 01,Men,Silver,New Zealand,ATH146506
+MED9971,Taekwondo,Taekwondo Event 01,Men,Bronze,Germany,ATH209583
+MED9972,Taekwondo,Taekwondo Event 01,Men,Bronze,France,ATH119296
+MED9973,Taekwondo,Taekwondo Event 02,Women,Gold,Japan,ATH124610
+MED9974,Taekwondo,Taekwondo Event 02,Women,Silver,Great Britain,ATH153789
+MED9975,Taekwondo,Taekwondo Event 02,Women,Bronze,Germany,ATH170238
+MED9976,Taekwondo,Taekwondo Event 02,Women,Bronze,Poland,ATH148230
+MED9977,Taekwondo,Taekwondo Event 03,Men,Gold,South Korea,ATH116758
+MED9978,Taekwondo,Taekwondo Event 03,Men,Silver,Russia,ATH201248
+MED9979,Taekwondo,Taekwondo Event 03,Men,Bronze,United States,ATH107207
+MED9980,Taekwondo,Taekwondo Event 03,Men,Bronze,Canada,ATH106063
+MED9981,Taekwondo,Taekwondo Event 04,Women,Gold,Thailand,ATH137289
+MED9982,Taekwondo,Taekwondo Event 04,Women,Silver,Canada,ATH124498
+MED9983,Taekwondo,Taekwondo Event 04,Women,Bronze,Germany,ATH182200
+MED9984,Taekwondo,Taekwondo Event 04,Women,Bronze,Morocco,ATH156115
+MED9985,Taekwondo,Taekwondo Event 05,Men,Gold,China,ATH195767
+MED9986,Taekwondo,Taekwondo Event 05,Men,Silver,Brazil,ATH110621
+MED9987,Taekwondo,Taekwondo Event 05,Men,Bronze,New Zealand,ATH176283
+MED9988,Taekwondo,Taekwondo Event 05,Men,Bronze,Ireland,ATH173003
+MED9989,Taekwondo,Taekwondo Event 06,Women,Gold,United States,ATH205169
+MED9990,Taekwondo,Taekwondo Event 06,Women,Silver,South Korea,ATH178883
+MED9991,Taekwondo,Taekwondo Event 06,Women,Bronze,Germany,ATH134361
+MED9992,Taekwondo,Taekwondo Event 06,Women,Bronze,Switzerland,ATH128381
+MED9993,Taekwondo,Taekwondo Event 07,Men,Gold,China,ATH192270
+MED9994,Taekwondo,Taekwondo Event 07,Men,Silver,United States,ATH105186
+MED9995,Taekwondo,Taekwondo Event 07,Men,Bronze,Australia,ATH101884
+MED9996,Taekwondo,Taekwondo Event 07,Men,Bronze,Croatia,ATH174282
+MED9997,Taekwondo,Taekwondo Event 08,Women,Gold,China,ATH163136
+MED9998,Taekwondo,Taekwondo Event 08,Women,Silver,Germany,ATH127772
+MED9999,Taekwondo,Taekwondo Event 08,Women,Bronze,France,ATH178885
+MED10000,Taekwondo,Taekwondo Event 08,Women,Bronze,United States,ATH118616
+MED10001,Modern Pentathlon,Modern Pentathlon Event 01,Men,Gold,China,ATH184197
+MED10002,Modern Pentathlon,Modern Pentathlon Event 01,Men,Silver,Brazil,ATH150412
+MED10003,Modern Pentathlon,Modern Pentathlon Event 01,Men,Bronze,United States,ATH149948
+MED10004,Modern Pentathlon,Modern Pentathlon Event 02,Women,Gold,Australia,ATH133364
+MED10005,Modern Pentathlon,Modern Pentathlon Event 02,Women,Silver,China,ATH174423
+MED10006,Modern Pentathlon,Modern Pentathlon Event 02,Women,Bronze,United States,ATH191640

@@ -1,0 +1,503 @@
+TeamID,TeamName,Discipline,Event,Country,SquadSize,SeedRank
+TM5000,Russia Men,Rowing,Rowing Event 01,Russia,4,17
+TM5001,Kenya Men,Rowing,Rowing Event 01,Kenya,5,19
+TM5002,United States Men,Rowing,Rowing Event 01,United States,5,1
+TM5003,India Men,Rowing,Rowing Event 01,India,7,21
+TM5004,Canada Men,Rowing,Rowing Event 01,Canada,5,8
+TM5005,Great Britain Men,Rowing,Rowing Event 01,Great Britain,5,10
+TM5006,Hungary Men,Rowing,Rowing Event 01,Hungary,6,9
+TM5007,Japan Men,Rowing,Rowing Event 01,Japan,7,7
+TM5008,Australia Men,Rowing,Rowing Event 01,Australia,5,4
+TM5009,Argentina Men,Rowing,Rowing Event 01,Argentina,6,14
+TM5010,France Men,Rowing,Rowing Event 01,France,7,13
+TM5011,Vietnam Men,Rowing,Rowing Event 01,Vietnam,5,23
+TM5012,Croatia Men,Rowing,Rowing Event 01,Croatia,5,20
+TM5013,Italy Men,Rowing,Rowing Event 01,Italy,8,5
+TM5014,China Men,Rowing,Rowing Event 01,China,6,3
+TM5015,Germany Men,Rowing,Rowing Event 01,Germany,6,2
+TM5016,Turkey Men,Rowing,Rowing Event 01,Turkey,6,11
+TM5017,Netherlands Men,Rowing,Rowing Event 01,Netherlands,4,15
+TM5018,Brazil Men,Rowing,Rowing Event 01,Brazil,5,6
+TM5019,New Zealand Men,Rowing,Rowing Event 01,New Zealand,6,18
+TM5020,Ireland Men,Rowing,Rowing Event 01,Ireland,6,16
+TM5021,Norway Men,Rowing,Rowing Event 01,Norway,6,12
+TM5022,Saudi Arabia Men,Rowing,Rowing Event 01,Saudi Arabia,5,22
+TM5023,Poland Women,Rowing,Rowing Event 02,Poland,4,9
+TM5024,United States Women,Rowing,Rowing Event 02,United States,5,7
+TM5025,Russia Women,Rowing,Rowing Event 02,Russia,5,8
+TM5026,Norway Women,Rowing,Rowing Event 02,Norway,4,18
+TM5027,France Women,Rowing,Rowing Event 02,France,6,11
+TM5028,Jamaica Women,Rowing,Rowing Event 02,Jamaica,6,5
+TM5029,Argentina Women,Rowing,Rowing Event 02,Argentina,4,12
+TM5030,Netherlands Women,Rowing,Rowing Event 02,Netherlands,6,4
+TM5031,Spain Women,Rowing,Rowing Event 02,Spain,5,14
+TM5032,Canada Women,Rowing,Rowing Event 02,Canada,5,1
+TM5033,Portugal Women,Rowing,Rowing Event 02,Portugal,5,21
+TM5034,Greece Women,Rowing,Rowing Event 02,Greece,6,22
+TM5035,Indonesia Women,Rowing,Rowing Event 02,Indonesia,6,20
+TM5036,Cuba Women,Rowing,Rowing Event 02,Cuba,5,15
+TM5037,Brazil Women,Rowing,Rowing Event 02,Brazil,7,10
+TM5038,New Zealand Women,Rowing,Rowing Event 02,New Zealand,4,16
+TM5039,Germany Women,Rowing,Rowing Event 02,Germany,5,6
+TM5040,Uzbekistan Women,Rowing,Rowing Event 02,Uzbekistan,5,17
+TM5041,South Korea Women,Rowing,Rowing Event 02,South Korea,5,19
+TM5042,China Women,Rowing,Rowing Event 02,China,5,2
+TM5043,Great Britain Women,Rowing,Rowing Event 02,Great Britain,5,3
+TM5044,Ukraine Women,Rowing,Rowing Event 02,Ukraine,4,13
+TM5045,Argentina Men,Rowing,Rowing Event 03,Argentina,6,10
+TM5046,Germany Men,Rowing,Rowing Event 03,Germany,7,6
+TM5047,Mexico Men,Rowing,Rowing Event 03,Mexico,8,11
+TM5048,United States Men,Rowing,Rowing Event 03,United States,7,1
+TM5049,Canada Men,Rowing,Rowing Event 03,Canada,4,3
+TM5050,Poland Men,Rowing,Rowing Event 03,Poland,7,8
+TM5051,Japan Men,Rowing,Rowing Event 03,Japan,5,7
+TM5052,Russia Men,Rowing,Rowing Event 03,Russia,6,2
+TM5053,Colombia Men,Rowing,Rowing Event 03,Colombia,4,9
+TM5054,Great Britain Men,Rowing,Rowing Event 03,Great Britain,4,5
+TM5055,Jamaica Men,Rowing,Rowing Event 03,Jamaica,6,4
+TM5056,Germany Women,Rowing,Rowing Event 04,Germany,5,2
+TM5057,United States Women,Rowing,Rowing Event 04,United States,6,4
+TM5058,Uzbekistan Women,Rowing,Rowing Event 04,Uzbekistan,5,9
+TM5059,South Africa Women,Rowing,Rowing Event 04,South Africa,4,5
+TM5060,Egypt Women,Rowing,Rowing Event 04,Egypt,5,6
+TM5061,Costa Rica Women,Rowing,Rowing Event 04,Costa Rica,6,7
+TM5062,Mexico Women,Rowing,Rowing Event 04,Mexico,4,8
+TM5063,Australia Women,Rowing,Rowing Event 04,Australia,5,1
+TM5064,France Women,Rowing,Rowing Event 04,France,4,3
+TM5065,Russia Men,Rowing,Rowing Event 05,Russia,4,2
+TM5066,New Zealand Men,Rowing,Rowing Event 05,New Zealand,6,3
+TM5067,India Men,Rowing,Rowing Event 05,India,6,9
+TM5068,Thailand Men,Rowing,Rowing Event 05,Thailand,5,10
+TM5069,Japan Men,Rowing,Rowing Event 05,Japan,5,5
+TM5070,Germany Men,Rowing,Rowing Event 05,Germany,7,1
+TM5071,Mexico Men,Rowing,Rowing Event 05,Mexico,6,4
+TM5072,Denmark Men,Rowing,Rowing Event 05,Denmark,7,8
+TM5073,Spain Men,Rowing,Rowing Event 05,Spain,4,6
+TM5074,Canada Men,Rowing,Rowing Event 05,Canada,5,7
+TM5075,India Women,Rowing,Rowing Event 06,India,7,6
+TM5076,Ethiopia Women,Rowing,Rowing Event 06,Ethiopia,6,10
+TM5077,United States Women,Rowing,Rowing Event 06,United States,5,4
+TM5078,Hungary Women,Rowing,Rowing Event 06,Hungary,7,11
+TM5079,South Korea Women,Rowing,Rowing Event 06,South Korea,6,3
+TM5080,Australia Women,Rowing,Rowing Event 06,Australia,4,2
+TM5081,Croatia Women,Rowing,Rowing Event 06,Croatia,5,16
+TM5082,Sweden Women,Rowing,Rowing Event 06,Sweden,4,18
+TM5083,Morocco Women,Rowing,Rowing Event 06,Morocco,4,14
+TM5084,Germany Women,Rowing,Rowing Event 06,Germany,5,1
+TM5085,France Women,Rowing,Rowing Event 06,France,6,13
+TM5086,Ukraine Women,Rowing,Rowing Event 06,Ukraine,7,9
+TM5087,Japan Women,Rowing,Rowing Event 06,Japan,5,8
+TM5088,New Zealand Women,Rowing,Rowing Event 06,New Zealand,6,12
+TM5089,Czechia Women,Rowing,Rowing Event 06,Czechia,5,5
+TM5090,Norway Women,Rowing,Rowing Event 06,Norway,6,20
+TM5091,Mexico Women,Rowing,Rowing Event 06,Mexico,6,17
+TM5092,Ireland Women,Rowing,Rowing Event 06,Ireland,6,15
+TM5093,Spain Women,Rowing,Rowing Event 06,Spain,7,7
+TM5094,Thailand Women,Rowing,Rowing Event 06,Thailand,7,19
+TM5095,Canada Men,Rowing,Rowing Event 07,Canada,5,9
+TM5096,South Korea Men,Rowing,Rowing Event 07,South Korea,6,7
+TM5097,Brazil Men,Rowing,Rowing Event 07,Brazil,6,8
+TM5098,Mexico Men,Rowing,Rowing Event 07,Mexico,4,15
+TM5099,Slovenia Men,Rowing,Rowing Event 07,Slovenia,6,12
+TM5100,Germany Men,Rowing,Rowing Event 07,Germany,5,6
+TM5101,Czechia Men,Rowing,Rowing Event 07,Czechia,5,14
+TM5102,Nigeria Men,Rowing,Rowing Event 07,Nigeria,5,21
+TM5103,South Africa Men,Rowing,Rowing Event 07,South Africa,4,10
+TM5104,Norway Men,Rowing,Rowing Event 07,Norway,5,11
+TM5105,Colombia Men,Rowing,Rowing Event 07,Colombia,5,23
+TM5106,Netherlands Men,Rowing,Rowing Event 07,Netherlands,6,2
+TM5107,Japan Men,Rowing,Rowing Event 07,Japan,6,16
+TM5108,Denmark Men,Rowing,Rowing Event 07,Denmark,6,13
+TM5109,Belgium Men,Rowing,Rowing Event 07,Belgium,6,17
+TM5110,United States Men,Rowing,Rowing Event 07,United States,6,1
+TM5111,Saudi Arabia Men,Rowing,Rowing Event 07,Saudi Arabia,5,18
+TM5112,Great Britain Men,Rowing,Rowing Event 07,Great Britain,6,4
+TM5113,Russia Men,Rowing,Rowing Event 07,Russia,5,5
+TM5114,Kenya Men,Rowing,Rowing Event 07,Kenya,6,20
+TM5115,Italy Men,Rowing,Rowing Event 07,Italy,6,3
+TM5116,Iran Men,Rowing,Rowing Event 07,Iran,5,19
+TM5117,Mongolia Men,Rowing,Rowing Event 07,Mongolia,6,22
+TM5118,Kenya Women,Rowing,Rowing Event 08,Kenya,7,9
+TM5119,United States Women,Rowing,Rowing Event 08,United States,6,2
+TM5120,Ireland Women,Rowing,Rowing Event 08,Ireland,6,10
+TM5121,Australia Women,Rowing,Rowing Event 08,Australia,6,5
+TM5122,Mexico Women,Rowing,Rowing Event 08,Mexico,4,11
+TM5123,Great Britain Women,Rowing,Rowing Event 08,Great Britain,4,3
+TM5124,Denmark Women,Rowing,Rowing Event 08,Denmark,6,14
+TM5125,Switzerland Women,Rowing,Rowing Event 08,Switzerland,5,12
+TM5126,Japan Women,Rowing,Rowing Event 08,Japan,7,1
+TM5127,New Zealand Women,Rowing,Rowing Event 08,New Zealand,7,7
+TM5128,Poland Women,Rowing,Rowing Event 08,Poland,4,16
+TM5129,Iran Women,Rowing,Rowing Event 08,Iran,6,15
+TM5130,China Women,Rowing,Rowing Event 08,China,5,4
+TM5131,Germany Women,Rowing,Rowing Event 08,Germany,7,8
+TM5132,South Korea Women,Rowing,Rowing Event 08,South Korea,7,6
+TM5133,Ukraine Women,Rowing,Rowing Event 08,Ukraine,4,13
+TM5134,Russia Men,Rowing,Rowing Event 09,Russia,7,3
+TM5135,Spain Men,Rowing,Rowing Event 09,Spain,6,4
+TM5136,Portugal Men,Rowing,Rowing Event 09,Portugal,6,7
+TM5137,Czechia Men,Rowing,Rowing Event 09,Czechia,5,9
+TM5138,South Korea Men,Rowing,Rowing Event 09,South Korea,6,8
+TM5139,China Men,Rowing,Rowing Event 09,China,5,2
+TM5140,Germany Men,Rowing,Rowing Event 09,Germany,7,1
+TM5141,Sweden Men,Rowing,Rowing Event 09,Sweden,7,6
+TM5142,Thailand Men,Rowing,Rowing Event 09,Thailand,5,10
+TM5143,Australia Men,Rowing,Rowing Event 09,Australia,7,5
+TM5144,Nigeria Men,Rowing,Rowing Event 09,Nigeria,6,11
+TM5145,Czechia Women,Rowing,Rowing Event 10,Czechia,6,21
+TM5146,United States Women,Rowing,Rowing Event 10,United States,7,3
+TM5147,New Zealand Women,Rowing,Rowing Event 10,New Zealand,4,4
+TM5148,India Women,Rowing,Rowing Event 10,India,5,16
+TM5149,South Africa Women,Rowing,Rowing Event 10,South Africa,5,14
+TM5150,Australia Women,Rowing,Rowing Event 10,Australia,7,12
+TM5151,Spain Women,Rowing,Rowing Event 10,Spain,4,17
+TM5152,Switzerland Women,Rowing,Rowing Event 10,Switzerland,4,7
+TM5153,Nigeria Women,Rowing,Rowing Event 10,Nigeria,6,22
+TM5154,China Women,Rowing,Rowing Event 10,China,7,1
+TM5155,Portugal Women,Rowing,Rowing Event 10,Portugal,6,19
+TM5156,Uzbekistan Women,Rowing,Rowing Event 10,Uzbekistan,5,9
+TM5157,Great Britain Women,Rowing,Rowing Event 10,Great Britain,5,2
+TM5158,Japan Women,Rowing,Rowing Event 10,Japan,7,6
+TM5159,Ukraine Women,Rowing,Rowing Event 10,Ukraine,5,15
+TM5160,Colombia Women,Rowing,Rowing Event 10,Colombia,6,23
+TM5161,Italy Women,Rowing,Rowing Event 10,Italy,4,13
+TM5162,Ireland Women,Rowing,Rowing Event 10,Ireland,6,11
+TM5163,Mongolia Women,Rowing,Rowing Event 10,Mongolia,5,24
+TM5164,Denmark Women,Rowing,Rowing Event 10,Denmark,7,8
+TM5165,Croatia Women,Rowing,Rowing Event 10,Croatia,5,20
+TM5166,Chile Women,Rowing,Rowing Event 10,Chile,7,10
+TM5167,Iran Women,Rowing,Rowing Event 10,Iran,6,18
+TM5168,Germany Women,Rowing,Rowing Event 10,Germany,5,5
+TM5169,China Men,Rowing,Rowing Event 11,China,6,4
+TM5170,Japan Men,Rowing,Rowing Event 11,Japan,6,5
+TM5171,Poland Men,Rowing,Rowing Event 11,Poland,5,11
+TM5172,United States Men,Rowing,Rowing Event 11,United States,5,3
+TM5173,Uzbekistan Men,Rowing,Rowing Event 11,Uzbekistan,5,17
+TM5174,France Men,Rowing,Rowing Event 11,France,5,6
+TM5175,Vietnam Men,Rowing,Rowing Event 11,Vietnam,5,18
+TM5176,Australia Men,Rowing,Rowing Event 11,Australia,4,2
+TM5177,Serbia Men,Rowing,Rowing Event 11,Serbia,5,12
+TM5178,Iran Men,Rowing,Rowing Event 11,Iran,5,14
+TM5179,Belgium Men,Rowing,Rowing Event 11,Belgium,6,8
+TM5180,South Africa Men,Rowing,Rowing Event 11,South Africa,6,7
+TM5181,Croatia Men,Rowing,Rowing Event 11,Croatia,8,10
+TM5182,Cuba Men,Rowing,Rowing Event 11,Cuba,6,13
+TM5183,Ireland Men,Rowing,Rowing Event 11,Ireland,6,15
+TM5184,Mexico Men,Rowing,Rowing Event 11,Mexico,5,9
+TM5185,Chile Men,Rowing,Rowing Event 11,Chile,5,16
+TM5186,Great Britain Men,Rowing,Rowing Event 11,Great Britain,5,1
+TM5187,Colombia Women,Rowing,Rowing Event 12,Colombia,5,15
+TM5188,Ethiopia Women,Rowing,Rowing Event 12,Ethiopia,5,14
+TM5189,Italy Women,Rowing,Rowing Event 12,Italy,6,4
+TM5190,Germany Women,Rowing,Rowing Event 12,Germany,7,5
+TM5191,Thailand Women,Rowing,Rowing Event 12,Thailand,7,10
+TM5192,Portugal Women,Rowing,Rowing Event 12,Portugal,7,11
+TM5193,Jamaica Women,Rowing,Rowing Event 12,Jamaica,4,8
+TM5194,Japan Women,Rowing,Rowing Event 12,Japan,6,1
+TM5195,China Women,Rowing,Rowing Event 12,China,5,9
+TM5196,France Women,Rowing,Rowing Event 12,France,4,6
+TM5197,Czechia Women,Rowing,Rowing Event 12,Czechia,5,12
+TM5198,India Women,Rowing,Rowing Event 12,India,6,16
+TM5199,Brazil Women,Rowing,Rowing Event 12,Brazil,5,7
+TM5200,Australia Women,Rowing,Rowing Event 12,Australia,7,3
+TM5201,United States Women,Rowing,Rowing Event 12,United States,5,2
+TM5202,Lithuania Women,Rowing,Rowing Event 12,Lithuania,5,17
+TM5203,Russia Women,Rowing,Rowing Event 12,Russia,5,13
+TM5204,Hungary Men,Rowing,Rowing Event 13,Hungary,7,7
+TM5205,Chile Men,Rowing,Rowing Event 13,Chile,5,6
+TM5206,Switzerland Men,Rowing,Rowing Event 13,Switzerland,5,9
+TM5207,United States Men,Rowing,Rowing Event 13,United States,7,3
+TM5208,Japan Men,Rowing,Rowing Event 13,Japan,7,5
+TM5209,South Korea Men,Rowing,Rowing Event 13,South Korea,5,10
+TM5210,Great Britain Men,Rowing,Rowing Event 13,Great Britain,5,2
+TM5211,Serbia Men,Rowing,Rowing Event 13,Serbia,6,8
+TM5212,Australia Men,Rowing,Rowing Event 13,Australia,7,4
+TM5213,Portugal Men,Rowing,Rowing Event 13,Portugal,6,11
+TM5214,Germany Men,Rowing,Rowing Event 13,Germany,7,1
+TM5215,China Women,Rowing,Rowing Event 14,China,7,5
+TM5216,Japan Women,Rowing,Rowing Event 14,Japan,6,2
+TM5217,United States Women,Rowing,Rowing Event 14,United States,5,1
+TM5218,Poland Women,Rowing,Rowing Event 14,Poland,6,16
+TM5219,Spain Women,Rowing,Rowing Event 14,Spain,6,6
+TM5220,Russia Women,Rowing,Rowing Event 14,Russia,6,4
+TM5221,Egypt Women,Rowing,Rowing Event 14,Egypt,6,7
+TM5222,Germany Women,Rowing,Rowing Event 14,Germany,4,10
+TM5223,Belgium Women,Rowing,Rowing Event 14,Belgium,4,12
+TM5224,Czechia Women,Rowing,Rowing Event 14,Czechia,7,9
+TM5225,Great Britain Women,Rowing,Rowing Event 14,Great Britain,5,3
+TM5226,Iran Women,Rowing,Rowing Event 14,Iran,6,14
+TM5227,Indonesia Women,Rowing,Rowing Event 14,Indonesia,5,17
+TM5228,Italy Women,Rowing,Rowing Event 14,Italy,6,13
+TM5229,Sweden Women,Rowing,Rowing Event 14,Sweden,5,11
+TM5230,Australia Women,Rowing,Rowing Event 14,Australia,5,8
+TM5231,Denmark Women,Rowing,Rowing Event 14,Denmark,7,15
+TM5232,Colombia Men,Football,Football Event 01,Colombia,17,17
+TM5233,Egypt Men,Football,Football Event 01,Egypt,19,10
+TM5234,Brazil Men,Football,Football Event 01,Brazil,17,8
+TM5235,France Men,Football,Football Event 01,France,17,5
+TM5236,New Zealand Men,Football,Football Event 01,New Zealand,17,12
+TM5237,Poland Men,Football,Football Event 01,Poland,17,15
+TM5238,United States Men,Football,Football Event 01,United States,16,3
+TM5239,Norway Men,Football,Football Event 01,Norway,18,14
+TM5240,Spain Men,Football,Football Event 01,Spain,19,13
+TM5241,Netherlands Men,Football,Football Event 01,Netherlands,19,9
+TM5242,Great Britain Men,Football,Football Event 01,Great Britain,17,2
+TM5243,Germany Men,Football,Football Event 01,Germany,17,4
+TM5244,Italy Men,Football,Football Event 01,Italy,17,7
+TM5245,Australia Men,Football,Football Event 01,Australia,17,6
+TM5246,Greece Men,Football,Football Event 01,Greece,17,16
+TM5247,China Men,Football,Football Event 01,China,17,1
+TM5248,India Men,Football,Football Event 01,India,17,11
+TM5249,Australia Women,Football,Football Event 02,Australia,18,6
+TM5250,Mexico Women,Football,Football Event 02,Mexico,17,10
+TM5251,Morocco Women,Football,Football Event 02,Morocco,18,11
+TM5252,United States Women,Football,Football Event 02,United States,18,2
+TM5253,Switzerland Women,Football,Football Event 02,Switzerland,20,5
+TM5254,Great Britain Women,Football,Football Event 02,Great Britain,16,4
+TM5255,Netherlands Women,Football,Football Event 02,Netherlands,20,3
+TM5256,Brazil Women,Football,Football Event 02,Brazil,18,9
+TM5257,China Women,Football,Football Event 02,China,18,1
+TM5258,Costa Rica Women,Football,Football Event 02,Costa Rica,17,12
+TM5259,Russia Women,Football,Football Event 02,Russia,19,8
+TM5260,Germany Women,Football,Football Event 02,Germany,18,7
+TM5261,Croatia Men,Basketball,Basketball Event 01,Croatia,10,11
+TM5262,Netherlands Men,Basketball,Basketball Event 01,Netherlands,12,9
+TM5263,China Men,Basketball,Basketball Event 01,China,11,1
+TM5264,Argentina Men,Basketball,Basketball Event 01,Argentina,10,8
+TM5265,Germany Men,Basketball,Basketball Event 01,Germany,12,2
+TM5266,Lithuania Men,Basketball,Basketball Event 01,Lithuania,10,19
+TM5267,Great Britain Men,Basketball,Basketball Event 01,Great Britain,11,12
+TM5268,Jordan Men,Basketball,Basketball Event 01,Jordan,12,21
+TM5269,New Zealand Men,Basketball,Basketball Event 01,New Zealand,14,10
+TM5270,Norway Men,Basketball,Basketball Event 01,Norway,11,6
+TM5271,Japan Men,Basketball,Basketball Event 01,Japan,11,5
+TM5272,Poland Men,Basketball,Basketball Event 01,Poland,12,7
+TM5273,Serbia Men,Basketball,Basketball Event 01,Serbia,12,16
+TM5274,Sweden Men,Basketball,Basketball Event 01,Sweden,10,13
+TM5275,Italy Men,Basketball,Basketball Event 01,Italy,11,3
+TM5276,Brazil Men,Basketball,Basketball Event 01,Brazil,11,15
+TM5277,Hungary Men,Basketball,Basketball Event 01,Hungary,12,17
+TM5278,United States Men,Basketball,Basketball Event 01,United States,12,4
+TM5279,Costa Rica Men,Basketball,Basketball Event 01,Costa Rica,11,20
+TM5280,Egypt Men,Basketball,Basketball Event 01,Egypt,14,18
+TM5281,India Men,Basketball,Basketball Event 01,India,12,14
+TM5282,Brazil Women,Basketball,Basketball Event 02,Brazil,14,12
+TM5283,France Women,Basketball,Basketball Event 02,France,15,11
+TM5284,Australia Women,Basketball,Basketball Event 02,Australia,10,10
+TM5285,South Korea Women,Basketball,Basketball Event 02,South Korea,12,5
+TM5286,Italy Women,Basketball,Basketball Event 02,Italy,10,2
+TM5287,United States Women,Basketball,Basketball Event 02,United States,10,6
+TM5288,Russia Women,Basketball,Basketball Event 02,Russia,12,7
+TM5289,Portugal Women,Basketball,Basketball Event 02,Portugal,10,16
+TM5290,Serbia Women,Basketball,Basketball Event 02,Serbia,14,9
+TM5291,Japan Women,Basketball,Basketball Event 02,Japan,11,3
+TM5292,Belgium Women,Basketball,Basketball Event 02,Belgium,11,14
+TM5293,Great Britain Women,Basketball,Basketball Event 02,Great Britain,12,4
+TM5294,China Women,Basketball,Basketball Event 02,China,10,1
+TM5295,India Women,Basketball,Basketball Event 02,India,11,15
+TM5296,Ireland Women,Basketball,Basketball Event 02,Ireland,10,17
+TM5297,Canada Women,Basketball,Basketball Event 02,Canada,11,8
+TM5298,Hungary Women,Basketball,Basketball Event 02,Hungary,11,13
+TM5299,China Men,Basketball,Basketball Event 03,China,12,1
+TM5300,South Africa Men,Basketball,Basketball Event 03,South Africa,13,11
+TM5301,Portugal Men,Basketball,Basketball Event 03,Portugal,12,12
+TM5302,Russia Men,Basketball,Basketball Event 03,Russia,10,8
+TM5303,Japan Men,Basketball,Basketball Event 03,Japan,12,5
+TM5304,Great Britain Men,Basketball,Basketball Event 03,Great Britain,13,3
+TM5305,Germany Men,Basketball,Basketball Event 03,Germany,10,7
+TM5306,France Men,Basketball,Basketball Event 03,France,10,6
+TM5307,Sweden Men,Basketball,Basketball Event 03,Sweden,12,14
+TM5308,United States Men,Basketball,Basketball Event 03,United States,12,4
+TM5309,Fiji Men,Basketball,Basketball Event 03,Fiji,11,16
+TM5310,Australia Men,Basketball,Basketball Event 03,Australia,10,13
+TM5311,Croatia Men,Basketball,Basketball Event 03,Croatia,12,15
+TM5312,Norway Men,Basketball,Basketball Event 03,Norway,11,9
+TM5313,Canada Men,Basketball,Basketball Event 03,Canada,11,10
+TM5314,South Korea Men,Basketball,Basketball Event 03,South Korea,11,2
+TM5315,Germany Women,Basketball,Basketball Event 04,Germany,11,2
+TM5316,China Women,Basketball,Basketball Event 04,China,10,1
+TM5317,Morocco Women,Basketball,Basketball Event 04,Morocco,10,6
+TM5318,Ukraine Women,Basketball,Basketball Event 04,Ukraine,10,7
+TM5319,France Women,Basketball,Basketball Event 04,France,14,8
+TM5320,United States Women,Basketball,Basketball Event 04,United States,10,4
+TM5321,Great Britain Women,Basketball,Basketball Event 04,Great Britain,11,3
+TM5322,Greece Women,Basketball,Basketball Event 04,Greece,12,5
+TM5323,South Korea Men,Volleyball,Volleyball Event 01,South Korea,11,13
+TM5324,Kenya Men,Volleyball,Volleyball Event 01,Kenya,11,14
+TM5325,Japan Men,Volleyball,Volleyball Event 01,Japan,10,4
+TM5326,Italy Men,Volleyball,Volleyball Event 01,Italy,12,6
+TM5327,Switzerland Men,Volleyball,Volleyball Event 01,Switzerland,12,8
+TM5328,Belgium Men,Volleyball,Volleyball Event 01,Belgium,12,16
+TM5329,South Africa Men,Volleyball,Volleyball Event 01,South Africa,11,15
+TM5330,Argentina Men,Volleyball,Volleyball Event 01,Argentina,11,17
+TM5331,Australia Men,Volleyball,Volleyball Event 01,Australia,12,9
+TM5332,Canada Men,Volleyball,Volleyball Event 01,Canada,10,11
+TM5333,Poland Men,Volleyball,Volleyball Event 01,Poland,14,12
+TM5334,Spain Men,Volleyball,Volleyball Event 01,Spain,12,10
+TM5335,United States Men,Volleyball,Volleyball Event 01,United States,11,1
+TM5336,Netherlands Men,Volleyball,Volleyball Event 01,Netherlands,10,7
+TM5337,Germany Men,Volleyball,Volleyball Event 01,Germany,10,5
+TM5338,Russia Men,Volleyball,Volleyball Event 01,Russia,12,2
+TM5339,Great Britain Men,Volleyball,Volleyball Event 01,Great Britain,11,3
+TM5340,Portugal Men,Volleyball,Volleyball Event 01,Portugal,11,18
+TM5341,Norway Women,Volleyball,Volleyball Event 02,Norway,12,8
+TM5342,United States Women,Volleyball,Volleyball Event 02,United States,10,1
+TM5343,Japan Women,Volleyball,Volleyball Event 02,Japan,11,3
+TM5344,Serbia Women,Volleyball,Volleyball Event 02,Serbia,13,20
+TM5345,Denmark Women,Volleyball,Volleyball Event 02,Denmark,11,16
+TM5346,Nigeria Women,Volleyball,Volleyball Event 02,Nigeria,11,19
+TM5347,Switzerland Women,Volleyball,Volleyball Event 02,Switzerland,11,9
+TM5348,Portugal Women,Volleyball,Volleyball Event 02,Portugal,12,15
+TM5349,China Women,Volleyball,Volleyball Event 02,China,13,4
+TM5350,Canada Women,Volleyball,Volleyball Event 02,Canada,12,5
+TM5351,Russia Women,Volleyball,Volleyball Event 02,Russia,11,13
+TM5352,Poland Women,Volleyball,Volleyball Event 02,Poland,12,12
+TM5353,Sweden Women,Volleyball,Volleyball Event 02,Sweden,11,11
+TM5354,Great Britain Women,Volleyball,Volleyball Event 02,Great Britain,12,7
+TM5355,Netherlands Women,Volleyball,Volleyball Event 02,Netherlands,11,2
+TM5356,Mexico Women,Volleyball,Volleyball Event 02,Mexico,12,21
+TM5357,Chile Women,Volleyball,Volleyball Event 02,Chile,13,22
+TM5358,Germany Women,Volleyball,Volleyball Event 02,Germany,11,6
+TM5359,Spain Women,Volleyball,Volleyball Event 02,Spain,11,10
+TM5360,Fiji Women,Volleyball,Volleyball Event 02,Fiji,13,18
+TM5361,Australia Women,Volleyball,Volleyball Event 02,Australia,12,14
+TM5362,New Zealand Women,Volleyball,Volleyball Event 02,New Zealand,11,17
+TM5363,Colombia Men,Volleyball,Volleyball Event 03,Colombia,11,10
+TM5364,Spain Men,Volleyball,Volleyball Event 03,Spain,11,6
+TM5365,Brazil Men,Volleyball,Volleyball Event 03,Brazil,12,7
+TM5366,Russia Men,Volleyball,Volleyball Event 03,Russia,12,3
+TM5367,United States Men,Volleyball,Volleyball Event 03,United States,11,1
+TM5368,Netherlands Men,Volleyball,Volleyball Event 03,Netherlands,13,2
+TM5369,Japan Men,Volleyball,Volleyball Event 03,Japan,11,4
+TM5370,Czechia Men,Volleyball,Volleyball Event 03,Czechia,12,8
+TM5371,Costa Rica Men,Volleyball,Volleyball Event 03,Costa Rica,12,9
+TM5372,Great Britain Men,Volleyball,Volleyball Event 03,Great Britain,11,5
+TM5373,Japan Women,Volleyball,Volleyball Event 04,Japan,12,1
+TM5374,New Zealand Women,Volleyball,Volleyball Event 04,New Zealand,13,8
+TM5375,Czechia Women,Volleyball,Volleyball Event 04,Czechia,13,13
+TM5376,United States Women,Volleyball,Volleyball Event 04,United States,12,2
+TM5377,Sweden Women,Volleyball,Volleyball Event 04,Sweden,11,11
+TM5378,Russia Women,Volleyball,Volleyball Event 04,Russia,11,6
+TM5379,China Women,Volleyball,Volleyball Event 04,China,12,4
+TM5380,India Women,Volleyball,Volleyball Event 04,India,12,12
+TM5381,Nigeria Women,Volleyball,Volleyball Event 04,Nigeria,12,17
+TM5382,Uzbekistan Women,Volleyball,Volleyball Event 04,Uzbekistan,13,18
+TM5383,Iran Women,Volleyball,Volleyball Event 04,Iran,10,15
+TM5384,Italy Women,Volleyball,Volleyball Event 04,Italy,10,14
+TM5385,Germany Women,Volleyball,Volleyball Event 04,Germany,13,10
+TM5386,Netherlands Women,Volleyball,Volleyball Event 04,Netherlands,11,5
+TM5387,Croatia Women,Volleyball,Volleyball Event 04,Croatia,10,3
+TM5388,Turkey Women,Volleyball,Volleyball Event 04,Turkey,12,9
+TM5389,Poland Women,Volleyball,Volleyball Event 04,Poland,13,16
+TM5390,Ethiopia Women,Volleyball,Volleyball Event 04,Ethiopia,10,7
+TM5391,United States Men,Hockey,Hockey Event 01,United States,14,4
+TM5392,Jamaica Men,Hockey,Hockey Event 01,Jamaica,16,6
+TM5393,Hungary Men,Hockey,Hockey Event 01,Hungary,16,10
+TM5394,Uzbekistan Men,Hockey,Hockey Event 01,Uzbekistan,16,11
+TM5395,Greece Men,Hockey,Hockey Event 01,Greece,15,14
+TM5396,Great Britain Men,Hockey,Hockey Event 01,Great Britain,14,5
+TM5397,Canada Men,Hockey,Hockey Event 01,Canada,15,3
+TM5398,Japan Men,Hockey,Hockey Event 01,Japan,17,1
+TM5399,Argentina Men,Hockey,Hockey Event 01,Argentina,16,9
+TM5400,Mexico Men,Hockey,Hockey Event 01,Mexico,16,8
+TM5401,Serbia Men,Hockey,Hockey Event 01,Serbia,16,12
+TM5402,Australia Men,Hockey,Hockey Event 01,Australia,15,2
+TM5403,Ethiopia Men,Hockey,Hockey Event 01,Ethiopia,18,7
+TM5404,Cuba Men,Hockey,Hockey Event 01,Cuba,16,13
+TM5405,Germany Women,Hockey,Hockey Event 02,Germany,16,8
+TM5406,United States Women,Hockey,Hockey Event 02,United States,16,4
+TM5407,Great Britain Women,Hockey,Hockey Event 02,Great Britain,16,1
+TM5408,Lithuania Women,Hockey,Hockey Event 02,Lithuania,15,11
+TM5409,France Women,Hockey,Hockey Event 02,France,14,6
+TM5410,Netherlands Women,Hockey,Hockey Event 02,Netherlands,17,9
+TM5411,China Women,Hockey,Hockey Event 02,China,16,3
+TM5412,South Africa Women,Hockey,Hockey Event 02,South Africa,17,12
+TM5413,Hungary Women,Hockey,Hockey Event 02,Hungary,15,7
+TM5414,South Korea Women,Hockey,Hockey Event 02,South Korea,15,2
+TM5415,Italy Women,Hockey,Hockey Event 02,Italy,14,5
+TM5416,Kazakhstan Women,Hockey,Hockey Event 02,Kazakhstan,14,10
+TM5417,South Korea Men,Handball,Handball Event 01,South Korea,13,6
+TM5418,Japan Men,Handball,Handball Event 01,Japan,12,5
+TM5419,Ukraine Men,Handball,Handball Event 01,Ukraine,15,10
+TM5420,Russia Men,Handball,Handball Event 01,Russia,13,4
+TM5421,Netherlands Men,Handball,Handball Event 01,Netherlands,13,2
+TM5422,Brazil Men,Handball,Handball Event 01,Brazil,12,13
+TM5423,India Men,Handball,Handball Event 01,India,13,14
+TM5424,South Africa Men,Handball,Handball Event 01,South Africa,12,11
+TM5425,Italy Men,Handball,Handball Event 01,Italy,14,3
+TM5426,Saudi Arabia Men,Handball,Handball Event 01,Saudi Arabia,14,16
+TM5427,Germany Men,Handball,Handball Event 01,Germany,12,9
+TM5428,Canada Men,Handball,Handball Event 01,Canada,13,7
+TM5429,Great Britain Men,Handball,Handball Event 01,Great Britain,15,12
+TM5430,Uzbekistan Men,Handball,Handball Event 01,Uzbekistan,13,15
+TM5431,United States Men,Handball,Handball Event 01,United States,12,1
+TM5432,Spain Men,Handball,Handball Event 01,Spain,14,8
+TM5433,United States Women,Handball,Handball Event 02,United States,15,2
+TM5434,China Women,Handball,Handball Event 02,China,13,3
+TM5435,Australia Women,Handball,Handball Event 02,Australia,14,5
+TM5436,Vietnam Women,Handball,Handball Event 02,Vietnam,13,12
+TM5437,Japan Women,Handball,Handball Event 02,Japan,15,1
+TM5438,Great Britain Women,Handball,Handball Event 02,Great Britain,14,8
+TM5439,Turkey Women,Handball,Handball Event 02,Turkey,14,11
+TM5440,Thailand Women,Handball,Handball Event 02,Thailand,12,13
+TM5441,Switzerland Women,Handball,Handball Event 02,Switzerland,13,10
+TM5442,Canada Women,Handball,Handball Event 02,Canada,14,6
+TM5443,Germany Women,Handball,Handball Event 02,Germany,13,4
+TM5444,Ukraine Women,Handball,Handball Event 02,Ukraine,15,7
+TM5445,Denmark Women,Handball,Handball Event 02,Denmark,14,9
+TM5446,Germany Men,Rugby Sevens,Rugby Sevens Event 01,Germany,10,8
+TM5447,Cuba Men,Rugby Sevens,Rugby Sevens Event 01,Cuba,12,5
+TM5448,Greece Men,Rugby Sevens,Rugby Sevens Event 01,Greece,12,7
+TM5449,Croatia Men,Rugby Sevens,Rugby Sevens Event 01,Croatia,11,10
+TM5450,Belgium Men,Rugby Sevens,Rugby Sevens Event 01,Belgium,11,9
+TM5451,Turkey Men,Rugby Sevens,Rugby Sevens Event 01,Turkey,11,4
+TM5452,China Men,Rugby Sevens,Rugby Sevens Event 01,China,12,2
+TM5453,France Men,Rugby Sevens,Rugby Sevens Event 01,France,12,3
+TM5454,United States Men,Rugby Sevens,Rugby Sevens Event 01,United States,11,1
+TM5455,Brazil Men,Rugby Sevens,Rugby Sevens Event 01,Brazil,11,11
+TM5456,Switzerland Men,Rugby Sevens,Rugby Sevens Event 01,Switzerland,11,6
+TM5457,Saudi Arabia Men,Rugby Sevens,Rugby Sevens Event 01,Saudi Arabia,10,12
+TM5458,Australia Women,Rugby Sevens,Rugby Sevens Event 02,Australia,13,3
+TM5459,Netherlands Women,Rugby Sevens,Rugby Sevens Event 02,Netherlands,12,4
+TM5460,France Women,Rugby Sevens,Rugby Sevens Event 02,France,10,6
+TM5461,Egypt Women,Rugby Sevens,Rugby Sevens Event 02,Egypt,12,8
+TM5462,Croatia Women,Rugby Sevens,Rugby Sevens Event 02,Croatia,12,10
+TM5463,India Women,Rugby Sevens,Rugby Sevens Event 02,India,12,11
+TM5464,Norway Women,Rugby Sevens,Rugby Sevens Event 02,Norway,12,9
+TM5465,South Korea Women,Rugby Sevens,Rugby Sevens Event 02,South Korea,10,7
+TM5466,China Women,Rugby Sevens,Rugby Sevens Event 02,China,11,2
+TM5467,Ireland Women,Rugby Sevens,Rugby Sevens Event 02,Ireland,11,13
+TM5468,Brazil Women,Rugby Sevens,Rugby Sevens Event 02,Brazil,11,5
+TM5469,Great Britain Women,Rugby Sevens,Rugby Sevens Event 02,Great Britain,11,1
+TM5470,Mexico Women,Rugby Sevens,Rugby Sevens Event 02,Mexico,12,14
+TM5471,Turkey Women,Rugby Sevens,Rugby Sevens Event 02,Turkey,12,12
+TM5472,China Men,Water Polo,Water Polo Event 01,China,12,8
+TM5473,Canada Men,Water Polo,Water Polo Event 01,Canada,15,10
+TM5474,Kenya Men,Water Polo,Water Polo Event 01,Kenya,13,14
+TM5475,Italy Men,Water Polo,Water Polo Event 01,Italy,13,5
+TM5476,Norway Men,Water Polo,Water Polo Event 01,Norway,12,16
+TM5477,France Men,Water Polo,Water Polo Event 01,France,14,4
+TM5478,South Africa Men,Water Polo,Water Polo Event 01,South Africa,13,11
+TM5479,Great Britain Men,Water Polo,Water Polo Event 01,Great Britain,11,1
+TM5480,Spain Men,Water Polo,Water Polo Event 01,Spain,12,3
+TM5481,Sweden Men,Water Polo,Water Polo Event 01,Sweden,13,2
+TM5482,Serbia Men,Water Polo,Water Polo Event 01,Serbia,13,9
+TM5483,Switzerland Men,Water Polo,Water Polo Event 01,Switzerland,11,13
+TM5484,Japan Men,Water Polo,Water Polo Event 01,Japan,14,6
+TM5485,Denmark Men,Water Polo,Water Polo Event 01,Denmark,13,12
+TM5486,Netherlands Men,Water Polo,Water Polo Event 01,Netherlands,12,7
+TM5487,Brazil Men,Water Polo,Water Polo Event 01,Brazil,13,15
+TM5488,Denmark Women,Water Polo,Water Polo Event 02,Denmark,11,13
+TM5489,Germany Women,Water Polo,Water Polo Event 02,Germany,13,3
+TM5490,Spain Women,Water Polo,Water Polo Event 02,Spain,13,9
+TM5491,Australia Women,Water Polo,Water Polo Event 02,Australia,11,5
+TM5492,Jordan Women,Water Polo,Water Polo Event 02,Jordan,12,12
+TM5493,Great Britain Women,Water Polo,Water Polo Event 02,Great Britain,13,2
+TM5494,Thailand Women,Water Polo,Water Polo Event 02,Thailand,12,11
+TM5495,Morocco Women,Water Polo,Water Polo Event 02,Morocco,13,14
+TM5496,Belgium Women,Water Polo,Water Polo Event 02,Belgium,12,8
+TM5497,Netherlands Women,Water Polo,Water Polo Event 02,Netherlands,12,6
+TM5498,Egypt Women,Water Polo,Water Polo Event 02,Egypt,12,10
+TM5499,Canada Women,Water Polo,Water Polo Event 02,Canada,11,7
+TM5500,China Women,Water Polo,Water Polo Event 02,China,11,1
+TM5501,United States Women,Water Polo,Water Polo Event 02,United States,13,4
